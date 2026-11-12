@@ -1,0 +1,6 @@
+rating,designation,thickness,factor_old,factor_new_base,thin_surcharge,factor_new
+AAA,1.A,0.64,0.00158,0.0004,0,0.0004
+AA,1.C,0.12,0.00419,0.0005,0,0.0005
+A,1.F,0.06,0.00816,0.0017,0,0.0017
+BBB,2.B,0.06,0.01523,0.0324,0,0.0324
+BB,3.B,0.04,0.04537,0.2515,0.1177,0.3692

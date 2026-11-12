@@ -1,0 +1,11 @@
+parameter,copula,nu,value,method
+rho,gaussian,,0.1493063963,"method of moments on S&P B one-year default rate: mean 3.34%, SD 3.24% (Table 4)"
+rho,gaussian,,0.1261537332,"probit estimator: Var(Phi^-1(DR)) / (1 + Var), S&P B annual series 1981-2020"
+phi,both,,0.5120813561,"lag-1 autocorrelation of Phi^-1(S&P B annual default rate), 1981-2020"
+rho,naic,,0.1,Academy / Moody's Analytics bond model assumption (independent draw each year)
+rho,t,3,,same moment match; SD of one-year B default rate at rho=0 is 0.0605 > 0.0324: infeasible
+rho,t,5,,same moment match; SD of one-year B default rate at rho=0 is 0.0465 > 0.0324: infeasible
+rho,t,10,0.002667607869,same moment match; SD of one-year B default rate at rho=0 is 0.0321
+rho,t,30,0.1011079733,same moment match; SD of one-year B default rate at rho=0 is 0.0180
+nu_min_feasible,t,9.823312805,9.823312805,nu at which the t copula's one-year B default rate SD equals 3.24% with rho = 0
+t_headline_nu,t,10,10,smallest nu on the PLAN grid for which the volatility match is feasible (PLAN said 5)

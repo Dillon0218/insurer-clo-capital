@@ -1,0 +1,3221 @@
+variant,rating,instrument,loss,p_exceed
+base,AAA,CLO,0,1
+base,AAA,CLO,0.0025,0.00067
+base,AAA,CLO,0.005,0.00063
+base,AAA,CLO,0.0075,0.00059
+base,AAA,CLO,0.01,0.00058
+base,AAA,CLO,0.0125,0.00054
+base,AAA,CLO,0.015,0.00052
+base,AAA,CLO,0.0175,0.00052
+base,AAA,CLO,0.02,0.00048
+base,AAA,CLO,0.0225,0.00045
+base,AAA,CLO,0.025,0.00045
+base,AAA,CLO,0.0275,0.00042
+base,AAA,CLO,0.03,0.0004
+base,AAA,CLO,0.0325,0.00039
+base,AAA,CLO,0.035,0.00037
+base,AAA,CLO,0.0375,0.00036
+base,AAA,CLO,0.04,0.00035
+base,AAA,CLO,0.0425,0.00034
+base,AAA,CLO,0.045,0.00033
+base,AAA,CLO,0.0475,0.00032
+base,AAA,CLO,0.05,0.00032
+base,AAA,CLO,0.0525,0.0003
+base,AAA,CLO,0.055,0.0003
+base,AAA,CLO,0.0575,0.0003
+base,AAA,CLO,0.06,0.00029
+base,AAA,CLO,0.0625,0.00027
+base,AAA,CLO,0.065,0.00027
+base,AAA,CLO,0.0675,0.00027
+base,AAA,CLO,0.07,0.00026
+base,AAA,CLO,0.0725,0.00025
+base,AAA,CLO,0.075,0.00024
+base,AAA,CLO,0.0775,0.00023
+base,AAA,CLO,0.08,0.00023
+base,AAA,CLO,0.0825,0.00022
+base,AAA,CLO,0.085,0.00021
+base,AAA,CLO,0.0875,0.00021
+base,AAA,CLO,0.09,0.0002
+base,AAA,CLO,0.0925,0.0002
+base,AAA,CLO,0.095,0.0002
+base,AAA,CLO,0.0975,0.00019
+base,AAA,CLO,0.1,0.00019
+base,AAA,CLO,0.1025,0.00018
+base,AAA,CLO,0.105,0.00017
+base,AAA,CLO,0.1075,0.00017
+base,AAA,CLO,0.11,0.00015
+base,AAA,CLO,0.1125,0.00015
+base,AAA,CLO,0.115,0.00015
+base,AAA,CLO,0.1175,0.00014
+base,AAA,CLO,0.12,0.00014
+base,AAA,CLO,0.1225,0.00012
+base,AAA,CLO,0.125,0.00012
+base,AAA,CLO,0.1275,0.00011
+base,AAA,CLO,0.13,0.00011
+base,AAA,CLO,0.1325,0.00011
+base,AAA,CLO,0.135,0.00011
+base,AAA,CLO,0.1375,0.0001
+base,AAA,CLO,0.14,9e-05
+base,AAA,CLO,0.1425,9e-05
+base,AAA,CLO,0.145,9e-05
+base,AAA,CLO,0.1475,9e-05
+base,AAA,CLO,0.15,9e-05
+base,AAA,CLO,0.1525,9e-05
+base,AAA,CLO,0.155,7e-05
+base,AAA,CLO,0.1575,7e-05
+base,AAA,CLO,0.16,7e-05
+base,AAA,CLO,0.1625,7e-05
+base,AAA,CLO,0.165,6e-05
+base,AAA,CLO,0.1675,6e-05
+base,AAA,CLO,0.17,6e-05
+base,AAA,CLO,0.1725,5e-05
+base,AAA,CLO,0.175,4e-05
+base,AAA,CLO,0.1775,4e-05
+base,AAA,CLO,0.18,4e-05
+base,AAA,CLO,0.1825,3e-05
+base,AAA,CLO,0.185,3e-05
+base,AAA,CLO,0.1875,3e-05
+base,AAA,CLO,0.19,3e-05
+base,AAA,CLO,0.1925,3e-05
+base,AAA,CLO,0.195,3e-05
+base,AAA,CLO,0.1975,3e-05
+base,AAA,CLO,0.2,3e-05
+base,AAA,CLO,0.21,3e-05
+base,AAA,CLO,0.22,1e-05
+base,AAA,CLO,0.23,1e-05
+base,AAA,CLO,0.24,0
+base,AAA,CLO,0.25,0
+base,AAA,CLO,0.26,0
+base,AAA,CLO,0.27,0
+base,AAA,CLO,0.28,0
+base,AAA,CLO,0.29,0
+base,AAA,CLO,0.3,0
+base,AAA,CLO,0.31,0
+base,AAA,CLO,0.32,0
+base,AAA,CLO,0.33,0
+base,AAA,CLO,0.34,0
+base,AAA,CLO,0.35,0
+base,AAA,CLO,0.36,0
+base,AAA,CLO,0.37,0
+base,AAA,CLO,0.38,0
+base,AAA,CLO,0.39,0
+base,AAA,CLO,0.4,0
+base,AAA,CLO,0.41,0
+base,AAA,CLO,0.42,0
+base,AAA,CLO,0.43,0
+base,AAA,CLO,0.44,0
+base,AAA,CLO,0.45,0
+base,AAA,CLO,0.46,0
+base,AAA,CLO,0.47,0
+base,AAA,CLO,0.48,0
+base,AAA,CLO,0.49,0
+base,AAA,CLO,0.5,0
+base,AAA,CLO,0.51,0
+base,AAA,CLO,0.52,0
+base,AAA,CLO,0.53,0
+base,AAA,CLO,0.54,0
+base,AAA,CLO,0.55,0
+base,AAA,CLO,0.56,0
+base,AAA,CLO,0.57,0
+base,AAA,CLO,0.58,0
+base,AAA,CLO,0.59,0
+base,AAA,CLO,0.6,0
+base,AAA,CLO,0.61,0
+base,AAA,CLO,0.62,0
+base,AAA,CLO,0.63,0
+base,AAA,CLO,0.64,0
+base,AAA,CLO,0.65,0
+base,AAA,CLO,0.66,0
+base,AAA,CLO,0.67,0
+base,AAA,CLO,0.68,0
+base,AAA,CLO,0.69,0
+base,AAA,CLO,0.7,0
+base,AAA,CLO,0.71,0
+base,AAA,CLO,0.72,0
+base,AAA,CLO,0.73,0
+base,AAA,CLO,0.74,0
+base,AAA,CLO,0.75,0
+base,AAA,CLO,0.76,0
+base,AAA,CLO,0.77,0
+base,AAA,CLO,0.78,0
+base,AAA,CLO,0.79,0
+base,AAA,CLO,0.8,0
+base,AAA,CLO,0.81,0
+base,AAA,CLO,0.82,0
+base,AAA,CLO,0.83,0
+base,AAA,CLO,0.84,0
+base,AAA,CLO,0.85,0
+base,AAA,CLO,0.86,0
+base,AAA,CLO,0.87,0
+base,AAA,CLO,0.88,0
+base,AAA,CLO,0.89,0
+base,AAA,CLO,0.9,0
+base,AAA,CLO,0.91,0
+base,AAA,CLO,0.92,0
+base,AAA,CLO,0.93,0
+base,AAA,CLO,0.94,0
+base,AAA,CLO,0.95,0
+base,AAA,CLO,0.96,0
+base,AAA,CLO,0.97,0
+base,AAA,CLO,0.98,0
+base,AAA,CLO,0.99,0
+base,AAA,CLO,1,0
+base,AAA,Corporate,0,0.62412
+base,AAA,Corporate,0.0025,0.44091
+base,AAA,Corporate,0.005,0.26186
+base,AAA,Corporate,0.0075,0.15716
+base,AAA,Corporate,0.01,0.09941
+base,AAA,Corporate,0.0125,0.06523
+base,AAA,Corporate,0.015,0.04521
+base,AAA,Corporate,0.0175,0.03117
+base,AAA,Corporate,0.02,0.02248
+base,AAA,Corporate,0.0225,0.0163
+base,AAA,Corporate,0.025,0.01207
+base,AAA,Corporate,0.0275,0.00895
+base,AAA,Corporate,0.03,0.00689
+base,AAA,Corporate,0.0325,0.00508
+base,AAA,Corporate,0.035,0.00388
+base,AAA,Corporate,0.0375,0.00286
+base,AAA,Corporate,0.04,0.00215
+base,AAA,Corporate,0.0425,0.00167
+base,AAA,Corporate,0.045,0.00121
+base,AAA,Corporate,0.0475,0.00097
+base,AAA,Corporate,0.05,0.00079
+base,AAA,Corporate,0.0525,0.00063
+base,AAA,Corporate,0.055,0.00056
+base,AAA,Corporate,0.0575,0.00046
+base,AAA,Corporate,0.06,0.00033
+base,AAA,Corporate,0.0625,0.00027
+base,AAA,Corporate,0.065,0.00023
+base,AAA,Corporate,0.0675,0.0002
+base,AAA,Corporate,0.07,0.00016
+base,AAA,Corporate,0.0725,0.00014
+base,AAA,Corporate,0.075,0.00013
+base,AAA,Corporate,0.0775,0.00011
+base,AAA,Corporate,0.08,0.0001
+base,AAA,Corporate,0.0825,9e-05
+base,AAA,Corporate,0.085,9e-05
+base,AAA,Corporate,0.0875,7e-05
+base,AAA,Corporate,0.09,5e-05
+base,AAA,Corporate,0.0925,5e-05
+base,AAA,Corporate,0.095,4e-05
+base,AAA,Corporate,0.0975,3e-05
+base,AAA,Corporate,0.1,3e-05
+base,AAA,Corporate,0.1025,3e-05
+base,AAA,Corporate,0.105,3e-05
+base,AAA,Corporate,0.1075,2e-05
+base,AAA,Corporate,0.11,1e-05
+base,AAA,Corporate,0.1125,1e-05
+base,AAA,Corporate,0.115,1e-05
+base,AAA,Corporate,0.1175,1e-05
+base,AAA,Corporate,0.12,1e-05
+base,AAA,Corporate,0.1225,1e-05
+base,AAA,Corporate,0.125,1e-05
+base,AAA,Corporate,0.1275,1e-05
+base,AAA,Corporate,0.13,1e-05
+base,AAA,Corporate,0.1325,1e-05
+base,AAA,Corporate,0.135,0
+base,AAA,Corporate,0.1375,0
+base,AAA,Corporate,0.14,0
+base,AAA,Corporate,0.1425,0
+base,AAA,Corporate,0.145,0
+base,AAA,Corporate,0.1475,0
+base,AAA,Corporate,0.15,0
+base,AAA,Corporate,0.1525,0
+base,AAA,Corporate,0.155,0
+base,AAA,Corporate,0.1575,0
+base,AAA,Corporate,0.16,0
+base,AAA,Corporate,0.1625,0
+base,AAA,Corporate,0.165,0
+base,AAA,Corporate,0.1675,0
+base,AAA,Corporate,0.17,0
+base,AAA,Corporate,0.1725,0
+base,AAA,Corporate,0.175,0
+base,AAA,Corporate,0.1775,0
+base,AAA,Corporate,0.18,0
+base,AAA,Corporate,0.1825,0
+base,AAA,Corporate,0.185,0
+base,AAA,Corporate,0.1875,0
+base,AAA,Corporate,0.19,0
+base,AAA,Corporate,0.1925,0
+base,AAA,Corporate,0.195,0
+base,AAA,Corporate,0.1975,0
+base,AAA,Corporate,0.2,0
+base,AAA,Corporate,0.21,0
+base,AAA,Corporate,0.22,0
+base,AAA,Corporate,0.23,0
+base,AAA,Corporate,0.24,0
+base,AAA,Corporate,0.25,0
+base,AAA,Corporate,0.26,0
+base,AAA,Corporate,0.27,0
+base,AAA,Corporate,0.28,0
+base,AAA,Corporate,0.29,0
+base,AAA,Corporate,0.3,0
+base,AAA,Corporate,0.31,0
+base,AAA,Corporate,0.32,0
+base,AAA,Corporate,0.33,0
+base,AAA,Corporate,0.34,0
+base,AAA,Corporate,0.35,0
+base,AAA,Corporate,0.36,0
+base,AAA,Corporate,0.37,0
+base,AAA,Corporate,0.38,0
+base,AAA,Corporate,0.39,0
+base,AAA,Corporate,0.4,0
+base,AAA,Corporate,0.41,0
+base,AAA,Corporate,0.42,0
+base,AAA,Corporate,0.43,0
+base,AAA,Corporate,0.44,0
+base,AAA,Corporate,0.45,0
+base,AAA,Corporate,0.46,0
+base,AAA,Corporate,0.47,0
+base,AAA,Corporate,0.48,0
+base,AAA,Corporate,0.49,0
+base,AAA,Corporate,0.5,0
+base,AAA,Corporate,0.51,0
+base,AAA,Corporate,0.52,0
+base,AAA,Corporate,0.53,0
+base,AAA,Corporate,0.54,0
+base,AAA,Corporate,0.55,0
+base,AAA,Corporate,0.56,0
+base,AAA,Corporate,0.57,0
+base,AAA,Corporate,0.58,0
+base,AAA,Corporate,0.59,0
+base,AAA,Corporate,0.6,0
+base,AAA,Corporate,0.61,0
+base,AAA,Corporate,0.62,0
+base,AAA,Corporate,0.63,0
+base,AAA,Corporate,0.64,0
+base,AAA,Corporate,0.65,0
+base,AAA,Corporate,0.66,0
+base,AAA,Corporate,0.67,0
+base,AAA,Corporate,0.68,0
+base,AAA,Corporate,0.69,0
+base,AAA,Corporate,0.7,0
+base,AAA,Corporate,0.71,0
+base,AAA,Corporate,0.72,0
+base,AAA,Corporate,0.73,0
+base,AAA,Corporate,0.74,0
+base,AAA,Corporate,0.75,0
+base,AAA,Corporate,0.76,0
+base,AAA,Corporate,0.77,0
+base,AAA,Corporate,0.78,0
+base,AAA,Corporate,0.79,0
+base,AAA,Corporate,0.8,0
+base,AAA,Corporate,0.81,0
+base,AAA,Corporate,0.82,0
+base,AAA,Corporate,0.83,0
+base,AAA,Corporate,0.84,0
+base,AAA,Corporate,0.85,0
+base,AAA,Corporate,0.86,0
+base,AAA,Corporate,0.87,0
+base,AAA,Corporate,0.88,0
+base,AAA,Corporate,0.89,0
+base,AAA,Corporate,0.9,0
+base,AAA,Corporate,0.91,0
+base,AAA,Corporate,0.92,0
+base,AAA,Corporate,0.93,0
+base,AAA,Corporate,0.94,0
+base,AAA,Corporate,0.95,0
+base,AAA,Corporate,0.96,0
+base,AAA,Corporate,0.97,0
+base,AAA,Corporate,0.98,0
+base,AAA,Corporate,0.99,0
+base,AAA,Corporate,1,0
+base,AA,CLO,0,0.00325
+base,AA,CLO,0.0025,0.00325
+base,AA,CLO,0.005,0.00321
+base,AA,CLO,0.0075,0.0032
+base,AA,CLO,0.01,0.00317
+base,AA,CLO,0.0125,0.00314
+base,AA,CLO,0.015,0.00308
+base,AA,CLO,0.0175,0.00305
+base,AA,CLO,0.02,0.003
+base,AA,CLO,0.0225,0.00296
+base,AA,CLO,0.025,0.00295
+base,AA,CLO,0.0275,0.00292
+base,AA,CLO,0.03,0.00291
+base,AA,CLO,0.0325,0.00291
+base,AA,CLO,0.035,0.00291
+base,AA,CLO,0.0375,0.0029
+base,AA,CLO,0.04,0.00287
+base,AA,CLO,0.0425,0.00286
+base,AA,CLO,0.045,0.00283
+base,AA,CLO,0.0475,0.00282
+base,AA,CLO,0.05,0.00279
+base,AA,CLO,0.0525,0.00276
+base,AA,CLO,0.055,0.00275
+base,AA,CLO,0.0575,0.00269
+base,AA,CLO,0.06,0.00268
+base,AA,CLO,0.0625,0.00267
+base,AA,CLO,0.065,0.00267
+base,AA,CLO,0.0675,0.00265
+base,AA,CLO,0.07,0.00263
+base,AA,CLO,0.0725,0.00262
+base,AA,CLO,0.075,0.00259
+base,AA,CLO,0.0775,0.00258
+base,AA,CLO,0.08,0.00258
+base,AA,CLO,0.0825,0.00254
+base,AA,CLO,0.085,0.00252
+base,AA,CLO,0.0875,0.00251
+base,AA,CLO,0.09,0.0025
+base,AA,CLO,0.0925,0.00249
+base,AA,CLO,0.095,0.00247
+base,AA,CLO,0.0975,0.00245
+base,AA,CLO,0.1,0.00243
+base,AA,CLO,0.1025,0.00243
+base,AA,CLO,0.105,0.0024
+base,AA,CLO,0.1075,0.00239
+base,AA,CLO,0.11,0.00237
+base,AA,CLO,0.1125,0.00236
+base,AA,CLO,0.115,0.00234
+base,AA,CLO,0.1175,0.00232
+base,AA,CLO,0.12,0.00231
+base,AA,CLO,0.1225,0.00228
+base,AA,CLO,0.125,0.00227
+base,AA,CLO,0.1275,0.00227
+base,AA,CLO,0.13,0.00223
+base,AA,CLO,0.1325,0.00223
+base,AA,CLO,0.135,0.00223
+base,AA,CLO,0.1375,0.00221
+base,AA,CLO,0.14,0.00221
+base,AA,CLO,0.1425,0.0022
+base,AA,CLO,0.145,0.00218
+base,AA,CLO,0.1475,0.00217
+base,AA,CLO,0.15,0.00214
+base,AA,CLO,0.1525,0.00213
+base,AA,CLO,0.155,0.00212
+base,AA,CLO,0.1575,0.00212
+base,AA,CLO,0.16,0.00211
+base,AA,CLO,0.1625,0.00209
+base,AA,CLO,0.165,0.00207
+base,AA,CLO,0.1675,0.00206
+base,AA,CLO,0.17,0.00204
+base,AA,CLO,0.1725,0.00204
+base,AA,CLO,0.175,0.00204
+base,AA,CLO,0.1775,0.00204
+base,AA,CLO,0.18,0.00201
+base,AA,CLO,0.1825,0.00199
+base,AA,CLO,0.185,0.00197
+base,AA,CLO,0.1875,0.00196
+base,AA,CLO,0.19,0.00196
+base,AA,CLO,0.1925,0.00191
+base,AA,CLO,0.195,0.0019
+base,AA,CLO,0.1975,0.00189
+base,AA,CLO,0.2,0.00189
+base,AA,CLO,0.21,0.00184
+base,AA,CLO,0.22,0.00177
+base,AA,CLO,0.23,0.00171
+base,AA,CLO,0.24,0.00166
+base,AA,CLO,0.25,0.00159
+base,AA,CLO,0.26,0.00156
+base,AA,CLO,0.27,0.00155
+base,AA,CLO,0.28,0.00151
+base,AA,CLO,0.29,0.00147
+base,AA,CLO,0.3,0.00143
+base,AA,CLO,0.31,0.00143
+base,AA,CLO,0.32,0.00139
+base,AA,CLO,0.33,0.00138
+base,AA,CLO,0.34,0.00137
+base,AA,CLO,0.35,0.00131
+base,AA,CLO,0.36,0.00128
+base,AA,CLO,0.37,0.00124
+base,AA,CLO,0.38,0.00122
+base,AA,CLO,0.39,0.0012
+base,AA,CLO,0.4,0.00117
+base,AA,CLO,0.41,0.00113
+base,AA,CLO,0.42,0.0011
+base,AA,CLO,0.43,0.00106
+base,AA,CLO,0.44,0.00104
+base,AA,CLO,0.45,0.00103
+base,AA,CLO,0.46,0.00102
+base,AA,CLO,0.47,0.00102
+base,AA,CLO,0.48,0.00098
+base,AA,CLO,0.49,0.00095
+base,AA,CLO,0.5,0.00091
+base,AA,CLO,0.51,0.0009
+base,AA,CLO,0.52,0.00088
+base,AA,CLO,0.53,0.00085
+base,AA,CLO,0.54,0.00085
+base,AA,CLO,0.55,0.00083
+base,AA,CLO,0.56,0.00082
+base,AA,CLO,0.57,0.00081
+base,AA,CLO,0.58,0.00079
+base,AA,CLO,0.59,0.00078
+base,AA,CLO,0.6,0.00077
+base,AA,CLO,0.61,0.00075
+base,AA,CLO,0.62,0.00075
+base,AA,CLO,0.63,0.00072
+base,AA,CLO,0.64,0.00067
+base,AA,CLO,0.65,0.00059
+base,AA,CLO,0.66,0.00053
+base,AA,CLO,0.67,0.00038
+base,AA,CLO,0.68,0.0003
+base,AA,CLO,0.69,0.0003
+base,AA,CLO,0.7,0.0003
+base,AA,CLO,0.71,0.00026
+base,AA,CLO,0.72,0.00023
+base,AA,CLO,0.73,0.0002
+base,AA,CLO,0.74,0.00018
+base,AA,CLO,0.75,0.00016
+base,AA,CLO,0.76,0.00016
+base,AA,CLO,0.77,0.00015
+base,AA,CLO,0.78,0.00014
+base,AA,CLO,0.79,0.00013
+base,AA,CLO,0.8,0.00012
+base,AA,CLO,0.81,0.00011
+base,AA,CLO,0.82,8e-05
+base,AA,CLO,0.83,6e-05
+base,AA,CLO,0.84,5e-05
+base,AA,CLO,0.85,5e-05
+base,AA,CLO,0.86,3e-05
+base,AA,CLO,0.87,3e-05
+base,AA,CLO,0.88,3e-05
+base,AA,CLO,0.89,3e-05
+base,AA,CLO,0.9,3e-05
+base,AA,CLO,0.91,2e-05
+base,AA,CLO,0.92,2e-05
+base,AA,CLO,0.93,2e-05
+base,AA,CLO,0.94,0
+base,AA,CLO,0.95,0
+base,AA,CLO,0.96,0
+base,AA,CLO,0.97,0
+base,AA,CLO,0.98,0
+base,AA,CLO,0.99,0
+base,AA,CLO,1,0
+base,AA,Corporate,0,0.68757
+base,AA,Corporate,0.0025,0.4919
+base,AA,Corporate,0.005,0.30995
+base,AA,Corporate,0.0075,0.19717
+base,AA,Corporate,0.01,0.13011
+base,AA,Corporate,0.0125,0.08738
+base,AA,Corporate,0.015,0.06087
+base,AA,Corporate,0.0175,0.04306
+base,AA,Corporate,0.02,0.03105
+base,AA,Corporate,0.0225,0.02291
+base,AA,Corporate,0.025,0.01732
+base,AA,Corporate,0.0275,0.01328
+base,AA,Corporate,0.03,0.01009
+base,AA,Corporate,0.0325,0.00761
+base,AA,Corporate,0.035,0.00584
+base,AA,Corporate,0.0375,0.0044
+base,AA,Corporate,0.04,0.00345
+base,AA,Corporate,0.0425,0.00268
+base,AA,Corporate,0.045,0.00218
+base,AA,Corporate,0.0475,0.00184
+base,AA,Corporate,0.05,0.00148
+base,AA,Corporate,0.0525,0.00109
+base,AA,Corporate,0.055,0.00083
+base,AA,Corporate,0.0575,0.0007
+base,AA,Corporate,0.06,0.00048
+base,AA,Corporate,0.0625,0.00039
+base,AA,Corporate,0.065,0.00031
+base,AA,Corporate,0.0675,0.00028
+base,AA,Corporate,0.07,0.00023
+base,AA,Corporate,0.0725,0.00021
+base,AA,Corporate,0.075,0.00018
+base,AA,Corporate,0.0775,0.00012
+base,AA,Corporate,0.08,0.00012
+base,AA,Corporate,0.0825,0.0001
+base,AA,Corporate,0.085,7e-05
+base,AA,Corporate,0.0875,6e-05
+base,AA,Corporate,0.09,6e-05
+base,AA,Corporate,0.0925,6e-05
+base,AA,Corporate,0.095,4e-05
+base,AA,Corporate,0.0975,4e-05
+base,AA,Corporate,0.1,4e-05
+base,AA,Corporate,0.1025,4e-05
+base,AA,Corporate,0.105,4e-05
+base,AA,Corporate,0.1075,4e-05
+base,AA,Corporate,0.11,3e-05
+base,AA,Corporate,0.1125,0
+base,AA,Corporate,0.115,0
+base,AA,Corporate,0.1175,0
+base,AA,Corporate,0.12,0
+base,AA,Corporate,0.1225,0
+base,AA,Corporate,0.125,0
+base,AA,Corporate,0.1275,0
+base,AA,Corporate,0.13,0
+base,AA,Corporate,0.1325,0
+base,AA,Corporate,0.135,0
+base,AA,Corporate,0.1375,0
+base,AA,Corporate,0.14,0
+base,AA,Corporate,0.1425,0
+base,AA,Corporate,0.145,0
+base,AA,Corporate,0.1475,0
+base,AA,Corporate,0.15,0
+base,AA,Corporate,0.1525,0
+base,AA,Corporate,0.155,0
+base,AA,Corporate,0.1575,0
+base,AA,Corporate,0.16,0
+base,AA,Corporate,0.1625,0
+base,AA,Corporate,0.165,0
+base,AA,Corporate,0.1675,0
+base,AA,Corporate,0.17,0
+base,AA,Corporate,0.1725,0
+base,AA,Corporate,0.175,0
+base,AA,Corporate,0.1775,0
+base,AA,Corporate,0.18,0
+base,AA,Corporate,0.1825,0
+base,AA,Corporate,0.185,0
+base,AA,Corporate,0.1875,0
+base,AA,Corporate,0.19,0
+base,AA,Corporate,0.1925,0
+base,AA,Corporate,0.195,0
+base,AA,Corporate,0.1975,0
+base,AA,Corporate,0.2,0
+base,AA,Corporate,0.21,0
+base,AA,Corporate,0.22,0
+base,AA,Corporate,0.23,0
+base,AA,Corporate,0.24,0
+base,AA,Corporate,0.25,0
+base,AA,Corporate,0.26,0
+base,AA,Corporate,0.27,0
+base,AA,Corporate,0.28,0
+base,AA,Corporate,0.29,0
+base,AA,Corporate,0.3,0
+base,AA,Corporate,0.31,0
+base,AA,Corporate,0.32,0
+base,AA,Corporate,0.33,0
+base,AA,Corporate,0.34,0
+base,AA,Corporate,0.35,0
+base,AA,Corporate,0.36,0
+base,AA,Corporate,0.37,0
+base,AA,Corporate,0.38,0
+base,AA,Corporate,0.39,0
+base,AA,Corporate,0.4,0
+base,AA,Corporate,0.41,0
+base,AA,Corporate,0.42,0
+base,AA,Corporate,0.43,0
+base,AA,Corporate,0.44,0
+base,AA,Corporate,0.45,0
+base,AA,Corporate,0.46,0
+base,AA,Corporate,0.47,0
+base,AA,Corporate,0.48,0
+base,AA,Corporate,0.49,0
+base,AA,Corporate,0.5,0
+base,AA,Corporate,0.51,0
+base,AA,Corporate,0.52,0
+base,AA,Corporate,0.53,0
+base,AA,Corporate,0.54,0
+base,AA,Corporate,0.55,0
+base,AA,Corporate,0.56,0
+base,AA,Corporate,0.57,0
+base,AA,Corporate,0.58,0
+base,AA,Corporate,0.59,0
+base,AA,Corporate,0.6,0
+base,AA,Corporate,0.61,0
+base,AA,Corporate,0.62,0
+base,AA,Corporate,0.63,0
+base,AA,Corporate,0.64,0
+base,AA,Corporate,0.65,0
+base,AA,Corporate,0.66,0
+base,AA,Corporate,0.67,0
+base,AA,Corporate,0.68,0
+base,AA,Corporate,0.69,0
+base,AA,Corporate,0.7,0
+base,AA,Corporate,0.71,0
+base,AA,Corporate,0.72,0
+base,AA,Corporate,0.73,0
+base,AA,Corporate,0.74,0
+base,AA,Corporate,0.75,0
+base,AA,Corporate,0.76,0
+base,AA,Corporate,0.77,0
+base,AA,Corporate,0.78,0
+base,AA,Corporate,0.79,0
+base,AA,Corporate,0.8,0
+base,AA,Corporate,0.81,0
+base,AA,Corporate,0.82,0
+base,AA,Corporate,0.83,0
+base,AA,Corporate,0.84,0
+base,AA,Corporate,0.85,0
+base,AA,Corporate,0.86,0
+base,AA,Corporate,0.87,0
+base,AA,Corporate,0.88,0
+base,AA,Corporate,0.89,0
+base,AA,Corporate,0.9,0
+base,AA,Corporate,0.91,0
+base,AA,Corporate,0.92,0
+base,AA,Corporate,0.93,0
+base,AA,Corporate,0.94,0
+base,AA,Corporate,0.95,0
+base,AA,Corporate,0.96,0
+base,AA,Corporate,0.97,0
+base,AA,Corporate,0.98,0
+base,AA,Corporate,0.99,0
+base,AA,Corporate,1,0
+base,A,CLO,0,0.01283
+base,A,CLO,0.0025,0.0101
+base,A,CLO,0.005,0.01005
+base,A,CLO,0.0075,0.01003
+base,A,CLO,0.01,0.01001
+base,A,CLO,0.0125,0.00996
+base,A,CLO,0.015,0.00992
+base,A,CLO,0.0175,0.00986
+base,A,CLO,0.02,0.00982
+base,A,CLO,0.0225,0.0098
+base,A,CLO,0.025,0.00978
+base,A,CLO,0.0275,0.00975
+base,A,CLO,0.03,0.00971
+base,A,CLO,0.0325,0.00966
+base,A,CLO,0.035,0.00963
+base,A,CLO,0.0375,0.0096
+base,A,CLO,0.04,0.00958
+base,A,CLO,0.0425,0.00954
+base,A,CLO,0.045,0.00952
+base,A,CLO,0.0475,0.0095
+base,A,CLO,0.05,0.00946
+base,A,CLO,0.0525,0.00941
+base,A,CLO,0.055,0.00938
+base,A,CLO,0.0575,0.00936
+base,A,CLO,0.06,0.00931
+base,A,CLO,0.0625,0.0093
+base,A,CLO,0.065,0.00925
+base,A,CLO,0.0675,0.00921
+base,A,CLO,0.07,0.00918
+base,A,CLO,0.0725,0.00915
+base,A,CLO,0.075,0.00909
+base,A,CLO,0.0775,0.00906
+base,A,CLO,0.08,0.00904
+base,A,CLO,0.0825,0.00898
+base,A,CLO,0.085,0.00895
+base,A,CLO,0.0875,0.00894
+base,A,CLO,0.09,0.00888
+base,A,CLO,0.0925,0.00887
+base,A,CLO,0.095,0.00886
+base,A,CLO,0.0975,0.00885
+base,A,CLO,0.1,0.0088
+base,A,CLO,0.1025,0.00877
+base,A,CLO,0.105,0.00875
+base,A,CLO,0.1075,0.00875
+base,A,CLO,0.11,0.00871
+base,A,CLO,0.1125,0.00866
+base,A,CLO,0.115,0.00865
+base,A,CLO,0.1175,0.00864
+base,A,CLO,0.12,0.00862
+base,A,CLO,0.1225,0.00857
+base,A,CLO,0.125,0.00856
+base,A,CLO,0.1275,0.00854
+base,A,CLO,0.13,0.00853
+base,A,CLO,0.1325,0.00851
+base,A,CLO,0.135,0.00848
+base,A,CLO,0.1375,0.00845
+base,A,CLO,0.14,0.00839
+base,A,CLO,0.1425,0.00834
+base,A,CLO,0.145,0.00831
+base,A,CLO,0.1475,0.00826
+base,A,CLO,0.15,0.00825
+base,A,CLO,0.1525,0.00821
+base,A,CLO,0.155,0.00816
+base,A,CLO,0.1575,0.00813
+base,A,CLO,0.16,0.00808
+base,A,CLO,0.1625,0.00804
+base,A,CLO,0.165,0.00803
+base,A,CLO,0.1675,0.00801
+base,A,CLO,0.17,0.00799
+base,A,CLO,0.1725,0.00795
+base,A,CLO,0.175,0.00791
+base,A,CLO,0.1775,0.00786
+base,A,CLO,0.18,0.00784
+base,A,CLO,0.1825,0.00783
+base,A,CLO,0.185,0.00781
+base,A,CLO,0.1875,0.0078
+base,A,CLO,0.19,0.00775
+base,A,CLO,0.1925,0.00774
+base,A,CLO,0.195,0.00771
+base,A,CLO,0.1975,0.00768
+base,A,CLO,0.2,0.00764
+base,A,CLO,0.21,0.00751
+base,A,CLO,0.22,0.00748
+base,A,CLO,0.23,0.00738
+base,A,CLO,0.24,0.00728
+base,A,CLO,0.25,0.00721
+base,A,CLO,0.26,0.00706
+base,A,CLO,0.27,0.00696
+base,A,CLO,0.28,0.00689
+base,A,CLO,0.29,0.00681
+base,A,CLO,0.3,0.0067
+base,A,CLO,0.31,0.00668
+base,A,CLO,0.32,0.00661
+base,A,CLO,0.33,0.00651
+base,A,CLO,0.34,0.00642
+base,A,CLO,0.35,0.00635
+base,A,CLO,0.36,0.0063
+base,A,CLO,0.37,0.00623
+base,A,CLO,0.38,0.00611
+base,A,CLO,0.39,0.00605
+base,A,CLO,0.4,0.006
+base,A,CLO,0.41,0.00594
+base,A,CLO,0.42,0.00589
+base,A,CLO,0.43,0.0058
+base,A,CLO,0.44,0.00574
+base,A,CLO,0.45,0.00569
+base,A,CLO,0.46,0.00559
+base,A,CLO,0.47,0.00547
+base,A,CLO,0.48,0.0054
+base,A,CLO,0.49,0.00532
+base,A,CLO,0.5,0.00526
+base,A,CLO,0.51,0.00522
+base,A,CLO,0.52,0.00514
+base,A,CLO,0.53,0.00501
+base,A,CLO,0.54,0.00492
+base,A,CLO,0.55,0.00488
+base,A,CLO,0.56,0.0048
+base,A,CLO,0.57,0.00471
+base,A,CLO,0.58,0.00463
+base,A,CLO,0.59,0.00456
+base,A,CLO,0.6,0.00451
+base,A,CLO,0.61,0.00445
+base,A,CLO,0.62,0.00443
+base,A,CLO,0.63,0.00436
+base,A,CLO,0.64,0.0043
+base,A,CLO,0.65,0.00427
+base,A,CLO,0.66,0.00424
+base,A,CLO,0.67,0.00414
+base,A,CLO,0.68,0.00411
+base,A,CLO,0.69,0.00404
+base,A,CLO,0.7,0.00399
+base,A,CLO,0.71,0.00392
+base,A,CLO,0.72,0.00386
+base,A,CLO,0.73,0.00379
+base,A,CLO,0.74,0.00374
+base,A,CLO,0.75,0.00369
+base,A,CLO,0.76,0.00362
+base,A,CLO,0.77,0.00326
+base,A,CLO,0.78,0.00321
+base,A,CLO,0.79,0.00314
+base,A,CLO,0.8,0.00311
+base,A,CLO,0.81,0.00263
+base,A,CLO,0.82,0.00261
+base,A,CLO,0.83,0.00259
+base,A,CLO,0.84,0.00255
+base,A,CLO,0.85,0.00254
+base,A,CLO,0.86,0.00181
+base,A,CLO,0.87,0.00178
+base,A,CLO,0.88,0.00175
+base,A,CLO,0.89,0.00171
+base,A,CLO,0.9,0.00109
+base,A,CLO,0.91,0.00108
+base,A,CLO,0.92,0.00108
+base,A,CLO,0.93,0.00107
+base,A,CLO,0.94,0.00106
+base,A,CLO,0.95,0.00043
+base,A,CLO,0.96,0.00041
+base,A,CLO,0.97,0.00041
+base,A,CLO,0.98,0.00038
+base,A,CLO,0.99,0.00037
+base,A,CLO,1,0
+base,A,Corporate,0,0.80913
+base,A,Corporate,0.0025,0.64308
+base,A,Corporate,0.005,0.45502
+base,A,Corporate,0.0075,0.31802
+base,A,Corporate,0.01,0.22443
+base,A,Corporate,0.0125,0.15963
+base,A,Corporate,0.015,0.11598
+base,A,Corporate,0.0175,0.08666
+base,A,Corporate,0.02,0.06536
+base,A,Corporate,0.0225,0.04947
+base,A,Corporate,0.025,0.03802
+base,A,Corporate,0.0275,0.02925
+base,A,Corporate,0.03,0.02281
+base,A,Corporate,0.0325,0.01822
+base,A,Corporate,0.035,0.0143
+base,A,Corporate,0.0375,0.01124
+base,A,Corporate,0.04,0.00894
+base,A,Corporate,0.0425,0.00714
+base,A,Corporate,0.045,0.00569
+base,A,Corporate,0.0475,0.00469
+base,A,Corporate,0.05,0.00373
+base,A,Corporate,0.0525,0.00292
+base,A,Corporate,0.055,0.00237
+base,A,Corporate,0.0575,0.00195
+base,A,Corporate,0.06,0.00156
+base,A,Corporate,0.0625,0.00129
+base,A,Corporate,0.065,0.00099
+base,A,Corporate,0.0675,0.00081
+base,A,Corporate,0.07,0.00071
+base,A,Corporate,0.0725,0.00061
+base,A,Corporate,0.075,0.0005
+base,A,Corporate,0.0775,0.00037
+base,A,Corporate,0.08,0.00032
+base,A,Corporate,0.0825,0.00028
+base,A,Corporate,0.085,0.00018
+base,A,Corporate,0.0875,0.00012
+base,A,Corporate,0.09,0.0001
+base,A,Corporate,0.0925,9e-05
+base,A,Corporate,0.095,9e-05
+base,A,Corporate,0.0975,7e-05
+base,A,Corporate,0.1,6e-05
+base,A,Corporate,0.1025,6e-05
+base,A,Corporate,0.105,5e-05
+base,A,Corporate,0.1075,3e-05
+base,A,Corporate,0.11,3e-05
+base,A,Corporate,0.1125,3e-05
+base,A,Corporate,0.115,3e-05
+base,A,Corporate,0.1175,3e-05
+base,A,Corporate,0.12,3e-05
+base,A,Corporate,0.1225,3e-05
+base,A,Corporate,0.125,3e-05
+base,A,Corporate,0.1275,2e-05
+base,A,Corporate,0.13,1e-05
+base,A,Corporate,0.1325,0
+base,A,Corporate,0.135,0
+base,A,Corporate,0.1375,0
+base,A,Corporate,0.14,0
+base,A,Corporate,0.1425,0
+base,A,Corporate,0.145,0
+base,A,Corporate,0.1475,0
+base,A,Corporate,0.15,0
+base,A,Corporate,0.1525,0
+base,A,Corporate,0.155,0
+base,A,Corporate,0.1575,0
+base,A,Corporate,0.16,0
+base,A,Corporate,0.1625,0
+base,A,Corporate,0.165,0
+base,A,Corporate,0.1675,0
+base,A,Corporate,0.17,0
+base,A,Corporate,0.1725,0
+base,A,Corporate,0.175,0
+base,A,Corporate,0.1775,0
+base,A,Corporate,0.18,0
+base,A,Corporate,0.1825,0
+base,A,Corporate,0.185,0
+base,A,Corporate,0.1875,0
+base,A,Corporate,0.19,0
+base,A,Corporate,0.1925,0
+base,A,Corporate,0.195,0
+base,A,Corporate,0.1975,0
+base,A,Corporate,0.2,0
+base,A,Corporate,0.21,0
+base,A,Corporate,0.22,0
+base,A,Corporate,0.23,0
+base,A,Corporate,0.24,0
+base,A,Corporate,0.25,0
+base,A,Corporate,0.26,0
+base,A,Corporate,0.27,0
+base,A,Corporate,0.28,0
+base,A,Corporate,0.29,0
+base,A,Corporate,0.3,0
+base,A,Corporate,0.31,0
+base,A,Corporate,0.32,0
+base,A,Corporate,0.33,0
+base,A,Corporate,0.34,0
+base,A,Corporate,0.35,0
+base,A,Corporate,0.36,0
+base,A,Corporate,0.37,0
+base,A,Corporate,0.38,0
+base,A,Corporate,0.39,0
+base,A,Corporate,0.4,0
+base,A,Corporate,0.41,0
+base,A,Corporate,0.42,0
+base,A,Corporate,0.43,0
+base,A,Corporate,0.44,0
+base,A,Corporate,0.45,0
+base,A,Corporate,0.46,0
+base,A,Corporate,0.47,0
+base,A,Corporate,0.48,0
+base,A,Corporate,0.49,0
+base,A,Corporate,0.5,0
+base,A,Corporate,0.51,0
+base,A,Corporate,0.52,0
+base,A,Corporate,0.53,0
+base,A,Corporate,0.54,0
+base,A,Corporate,0.55,0
+base,A,Corporate,0.56,0
+base,A,Corporate,0.57,0
+base,A,Corporate,0.58,0
+base,A,Corporate,0.59,0
+base,A,Corporate,0.6,0
+base,A,Corporate,0.61,0
+base,A,Corporate,0.62,0
+base,A,Corporate,0.63,0
+base,A,Corporate,0.64,0
+base,A,Corporate,0.65,0
+base,A,Corporate,0.66,0
+base,A,Corporate,0.67,0
+base,A,Corporate,0.68,0
+base,A,Corporate,0.69,0
+base,A,Corporate,0.7,0
+base,A,Corporate,0.71,0
+base,A,Corporate,0.72,0
+base,A,Corporate,0.73,0
+base,A,Corporate,0.74,0
+base,A,Corporate,0.75,0
+base,A,Corporate,0.76,0
+base,A,Corporate,0.77,0
+base,A,Corporate,0.78,0
+base,A,Corporate,0.79,0
+base,A,Corporate,0.8,0
+base,A,Corporate,0.81,0
+base,A,Corporate,0.82,0
+base,A,Corporate,0.83,0
+base,A,Corporate,0.84,0
+base,A,Corporate,0.85,0
+base,A,Corporate,0.86,0
+base,A,Corporate,0.87,0
+base,A,Corporate,0.88,0
+base,A,Corporate,0.89,0
+base,A,Corporate,0.9,0
+base,A,Corporate,0.91,0
+base,A,Corporate,0.92,0
+base,A,Corporate,0.93,0
+base,A,Corporate,0.94,0
+base,A,Corporate,0.95,0
+base,A,Corporate,0.96,0
+base,A,Corporate,0.97,0
+base,A,Corporate,0.98,0
+base,A,Corporate,0.99,0
+base,A,Corporate,1,0
+base,BBB,CLO,0,0.94722
+base,BBB,CLO,0.0025,0.03706
+base,BBB,CLO,0.005,0.03689
+base,BBB,CLO,0.0075,0.03676
+base,BBB,CLO,0.01,0.03663
+base,BBB,CLO,0.0125,0.03651
+base,BBB,CLO,0.015,0.03639
+base,BBB,CLO,0.0175,0.03625
+base,BBB,CLO,0.02,0.03605
+base,BBB,CLO,0.0225,0.03584
+base,BBB,CLO,0.025,0.0357
+base,BBB,CLO,0.0275,0.03553
+base,BBB,CLO,0.03,0.0354
+base,BBB,CLO,0.0325,0.03535
+base,BBB,CLO,0.035,0.03517
+base,BBB,CLO,0.0375,0.03497
+base,BBB,CLO,0.04,0.03473
+base,BBB,CLO,0.0425,0.03449
+base,BBB,CLO,0.045,0.03431
+base,BBB,CLO,0.0475,0.03416
+base,BBB,CLO,0.05,0.03394
+base,BBB,CLO,0.0525,0.03382
+base,BBB,CLO,0.055,0.0337
+base,BBB,CLO,0.0575,0.03356
+base,BBB,CLO,0.06,0.03342
+base,BBB,CLO,0.0625,0.03321
+base,BBB,CLO,0.065,0.033
+base,BBB,CLO,0.0675,0.03287
+base,BBB,CLO,0.07,0.03273
+base,BBB,CLO,0.0725,0.03262
+base,BBB,CLO,0.075,0.03241
+base,BBB,CLO,0.0775,0.03226
+base,BBB,CLO,0.08,0.03207
+base,BBB,CLO,0.0825,0.03186
+base,BBB,CLO,0.085,0.03172
+base,BBB,CLO,0.0875,0.03161
+base,BBB,CLO,0.09,0.0315
+base,BBB,CLO,0.0925,0.03132
+base,BBB,CLO,0.095,0.03119
+base,BBB,CLO,0.0975,0.03097
+base,BBB,CLO,0.1,0.03085
+base,BBB,CLO,0.1025,0.03075
+base,BBB,CLO,0.105,0.0306
+base,BBB,CLO,0.1075,0.03046
+base,BBB,CLO,0.11,0.03036
+base,BBB,CLO,0.1125,0.03027
+base,BBB,CLO,0.115,0.03015
+base,BBB,CLO,0.1175,0.02998
+base,BBB,CLO,0.12,0.02992
+base,BBB,CLO,0.1225,0.02984
+base,BBB,CLO,0.125,0.02971
+base,BBB,CLO,0.1275,0.02961
+base,BBB,CLO,0.13,0.02948
+base,BBB,CLO,0.1325,0.02931
+base,BBB,CLO,0.135,0.02922
+base,BBB,CLO,0.1375,0.02909
+base,BBB,CLO,0.14,0.02903
+base,BBB,CLO,0.1425,0.02888
+base,BBB,CLO,0.145,0.02875
+base,BBB,CLO,0.1475,0.02864
+base,BBB,CLO,0.15,0.02851
+base,BBB,CLO,0.1525,0.02842
+base,BBB,CLO,0.155,0.0283
+base,BBB,CLO,0.1575,0.02819
+base,BBB,CLO,0.16,0.02814
+base,BBB,CLO,0.1625,0.02798
+base,BBB,CLO,0.165,0.02789
+base,BBB,CLO,0.1675,0.02776
+base,BBB,CLO,0.17,0.02756
+base,BBB,CLO,0.1725,0.02747
+base,BBB,CLO,0.175,0.02736
+base,BBB,CLO,0.1775,0.02728
+base,BBB,CLO,0.18,0.02717
+base,BBB,CLO,0.1825,0.02703
+base,BBB,CLO,0.185,0.02695
+base,BBB,CLO,0.1875,0.02683
+base,BBB,CLO,0.19,0.02671
+base,BBB,CLO,0.1925,0.02665
+base,BBB,CLO,0.195,0.02659
+base,BBB,CLO,0.1975,0.02649
+base,BBB,CLO,0.2,0.0264
+base,BBB,CLO,0.21,0.02592
+base,BBB,CLO,0.22,0.02549
+base,BBB,CLO,0.23,0.02509
+base,BBB,CLO,0.24,0.02473
+base,BBB,CLO,0.25,0.02435
+base,BBB,CLO,0.26,0.02403
+base,BBB,CLO,0.27,0.02369
+base,BBB,CLO,0.28,0.02323
+base,BBB,CLO,0.29,0.0229
+base,BBB,CLO,0.3,0.0225
+base,BBB,CLO,0.31,0.02219
+base,BBB,CLO,0.32,0.02182
+base,BBB,CLO,0.33,0.02131
+base,BBB,CLO,0.34,0.02103
+base,BBB,CLO,0.35,0.02075
+base,BBB,CLO,0.36,0.02048
+base,BBB,CLO,0.37,0.02017
+base,BBB,CLO,0.38,0.0199
+base,BBB,CLO,0.39,0.01953
+base,BBB,CLO,0.4,0.01925
+base,BBB,CLO,0.41,0.01897
+base,BBB,CLO,0.42,0.01871
+base,BBB,CLO,0.43,0.01848
+base,BBB,CLO,0.44,0.01829
+base,BBB,CLO,0.45,0.01795
+base,BBB,CLO,0.46,0.01767
+base,BBB,CLO,0.47,0.01739
+base,BBB,CLO,0.48,0.01715
+base,BBB,CLO,0.49,0.01686
+base,BBB,CLO,0.5,0.01657
+base,BBB,CLO,0.51,0.01632
+base,BBB,CLO,0.52,0.01607
+base,BBB,CLO,0.53,0.01582
+base,BBB,CLO,0.54,0.01554
+base,BBB,CLO,0.55,0.01531
+base,BBB,CLO,0.56,0.015
+base,BBB,CLO,0.57,0.01476
+base,BBB,CLO,0.58,0.01459
+base,BBB,CLO,0.59,0.01426
+base,BBB,CLO,0.6,0.01403
+base,BBB,CLO,0.61,0.01386
+base,BBB,CLO,0.62,0.01363
+base,BBB,CLO,0.63,0.01345
+base,BBB,CLO,0.64,0.01331
+base,BBB,CLO,0.65,0.01298
+base,BBB,CLO,0.66,0.01274
+base,BBB,CLO,0.67,0.01253
+base,BBB,CLO,0.68,0.01236
+base,BBB,CLO,0.69,0.01183
+base,BBB,CLO,0.7,0.01164
+base,BBB,CLO,0.71,0.01147
+base,BBB,CLO,0.72,0.01137
+base,BBB,CLO,0.73,0.01112
+base,BBB,CLO,0.74,0.00987
+base,BBB,CLO,0.75,0.00968
+base,BBB,CLO,0.76,0.00953
+base,BBB,CLO,0.77,0.00942
+base,BBB,CLO,0.78,0.00763
+base,BBB,CLO,0.79,0.00752
+base,BBB,CLO,0.8,0.00745
+base,BBB,CLO,0.81,0.00734
+base,BBB,CLO,0.82,0.00728
+base,BBB,CLO,0.83,0.00541
+base,BBB,CLO,0.84,0.00532
+base,BBB,CLO,0.85,0.00525
+base,BBB,CLO,0.86,0.00516
+base,BBB,CLO,0.87,0.00507
+base,BBB,CLO,0.88,0.005
+base,BBB,CLO,0.89,0.00309
+base,BBB,CLO,0.9,0.00307
+base,BBB,CLO,0.91,0.00299
+base,BBB,CLO,0.92,0.00291
+base,BBB,CLO,0.93,0.00288
+base,BBB,CLO,0.94,0.00118
+base,BBB,CLO,0.95,0.00117
+base,BBB,CLO,0.96,0.00115
+base,BBB,CLO,0.97,0.00111
+base,BBB,CLO,0.98,0.00107
+base,BBB,CLO,0.99,0.00107
+base,BBB,CLO,1,0
+base,BBB,Corporate,0,0.95093
+base,BBB,Corporate,0.0025,0.87207
+base,BBB,Corporate,0.005,0.75379
+base,BBB,Corporate,0.0075,0.62666
+base,BBB,Corporate,0.01,0.51482
+base,BBB,Corporate,0.0125,0.42114
+base,BBB,Corporate,0.015,0.34505
+base,BBB,Corporate,0.0175,0.28327
+base,BBB,Corporate,0.02,0.23342
+base,BBB,Corporate,0.0225,0.19297
+base,BBB,Corporate,0.025,0.16086
+base,BBB,Corporate,0.0275,0.13447
+base,BBB,Corporate,0.03,0.1133
+base,BBB,Corporate,0.0325,0.09578
+base,BBB,Corporate,0.035,0.08174
+base,BBB,Corporate,0.0375,0.06914
+base,BBB,Corporate,0.04,0.05884
+base,BBB,Corporate,0.0425,0.05037
+base,BBB,Corporate,0.045,0.04305
+base,BBB,Corporate,0.0475,0.03686
+base,BBB,Corporate,0.05,0.03201
+base,BBB,Corporate,0.0525,0.02764
+base,BBB,Corporate,0.055,0.02383
+base,BBB,Corporate,0.0575,0.02051
+base,BBB,Corporate,0.06,0.01767
+base,BBB,Corporate,0.0625,0.01525
+base,BBB,Corporate,0.065,0.01354
+base,BBB,Corporate,0.0675,0.01179
+base,BBB,Corporate,0.07,0.01035
+base,BBB,Corporate,0.0725,0.0091
+base,BBB,Corporate,0.075,0.00797
+base,BBB,Corporate,0.0775,0.00699
+base,BBB,Corporate,0.08,0.00601
+base,BBB,Corporate,0.0825,0.0052
+base,BBB,Corporate,0.085,0.00441
+base,BBB,Corporate,0.0875,0.00375
+base,BBB,Corporate,0.09,0.00323
+base,BBB,Corporate,0.0925,0.00286
+base,BBB,Corporate,0.095,0.0025
+base,BBB,Corporate,0.0975,0.00223
+base,BBB,Corporate,0.1,0.002
+base,BBB,Corporate,0.1025,0.00183
+base,BBB,Corporate,0.105,0.00162
+base,BBB,Corporate,0.1075,0.00136
+base,BBB,Corporate,0.11,0.0012
+base,BBB,Corporate,0.1125,0.00106
+base,BBB,Corporate,0.115,0.00095
+base,BBB,Corporate,0.1175,0.00088
+base,BBB,Corporate,0.12,0.00077
+base,BBB,Corporate,0.1225,0.00067
+base,BBB,Corporate,0.125,0.0006
+base,BBB,Corporate,0.1275,0.00053
+base,BBB,Corporate,0.13,0.00048
+base,BBB,Corporate,0.1325,0.00046
+base,BBB,Corporate,0.135,0.00042
+base,BBB,Corporate,0.1375,0.00038
+base,BBB,Corporate,0.14,0.00034
+base,BBB,Corporate,0.1425,0.00031
+base,BBB,Corporate,0.145,0.00029
+base,BBB,Corporate,0.1475,0.00023
+base,BBB,Corporate,0.15,0.00022
+base,BBB,Corporate,0.1525,0.00019
+base,BBB,Corporate,0.155,0.00017
+base,BBB,Corporate,0.1575,0.00017
+base,BBB,Corporate,0.16,0.00015
+base,BBB,Corporate,0.1625,0.00014
+base,BBB,Corporate,0.165,0.00014
+base,BBB,Corporate,0.1675,0.00013
+base,BBB,Corporate,0.17,0.00011
+base,BBB,Corporate,0.1725,0.00011
+base,BBB,Corporate,0.175,0.0001
+base,BBB,Corporate,0.1775,9e-05
+base,BBB,Corporate,0.18,7e-05
+base,BBB,Corporate,0.1825,6e-05
+base,BBB,Corporate,0.185,5e-05
+base,BBB,Corporate,0.1875,4e-05
+base,BBB,Corporate,0.19,4e-05
+base,BBB,Corporate,0.1925,2e-05
+base,BBB,Corporate,0.195,1e-05
+base,BBB,Corporate,0.1975,0
+base,BBB,Corporate,0.2,0
+base,BBB,Corporate,0.21,0
+base,BBB,Corporate,0.22,0
+base,BBB,Corporate,0.23,0
+base,BBB,Corporate,0.24,0
+base,BBB,Corporate,0.25,0
+base,BBB,Corporate,0.26,0
+base,BBB,Corporate,0.27,0
+base,BBB,Corporate,0.28,0
+base,BBB,Corporate,0.29,0
+base,BBB,Corporate,0.3,0
+base,BBB,Corporate,0.31,0
+base,BBB,Corporate,0.32,0
+base,BBB,Corporate,0.33,0
+base,BBB,Corporate,0.34,0
+base,BBB,Corporate,0.35,0
+base,BBB,Corporate,0.36,0
+base,BBB,Corporate,0.37,0
+base,BBB,Corporate,0.38,0
+base,BBB,Corporate,0.39,0
+base,BBB,Corporate,0.4,0
+base,BBB,Corporate,0.41,0
+base,BBB,Corporate,0.42,0
+base,BBB,Corporate,0.43,0
+base,BBB,Corporate,0.44,0
+base,BBB,Corporate,0.45,0
+base,BBB,Corporate,0.46,0
+base,BBB,Corporate,0.47,0
+base,BBB,Corporate,0.48,0
+base,BBB,Corporate,0.49,0
+base,BBB,Corporate,0.5,0
+base,BBB,Corporate,0.51,0
+base,BBB,Corporate,0.52,0
+base,BBB,Corporate,0.53,0
+base,BBB,Corporate,0.54,0
+base,BBB,Corporate,0.55,0
+base,BBB,Corporate,0.56,0
+base,BBB,Corporate,0.57,0
+base,BBB,Corporate,0.58,0
+base,BBB,Corporate,0.59,0
+base,BBB,Corporate,0.6,0
+base,BBB,Corporate,0.61,0
+base,BBB,Corporate,0.62,0
+base,BBB,Corporate,0.63,0
+base,BBB,Corporate,0.64,0
+base,BBB,Corporate,0.65,0
+base,BBB,Corporate,0.66,0
+base,BBB,Corporate,0.67,0
+base,BBB,Corporate,0.68,0
+base,BBB,Corporate,0.69,0
+base,BBB,Corporate,0.7,0
+base,BBB,Corporate,0.71,0
+base,BBB,Corporate,0.72,0
+base,BBB,Corporate,0.73,0
+base,BBB,Corporate,0.74,0
+base,BBB,Corporate,0.75,0
+base,BBB,Corporate,0.76,0
+base,BBB,Corporate,0.77,0
+base,BBB,Corporate,0.78,0
+base,BBB,Corporate,0.79,0
+base,BBB,Corporate,0.8,0
+base,BBB,Corporate,0.81,0
+base,BBB,Corporate,0.82,0
+base,BBB,Corporate,0.83,0
+base,BBB,Corporate,0.84,0
+base,BBB,Corporate,0.85,0
+base,BBB,Corporate,0.86,0
+base,BBB,Corporate,0.87,0
+base,BBB,Corporate,0.88,0
+base,BBB,Corporate,0.89,0
+base,BBB,Corporate,0.9,0
+base,BBB,Corporate,0.91,0
+base,BBB,Corporate,0.92,0
+base,BBB,Corporate,0.93,0
+base,BBB,Corporate,0.94,0
+base,BBB,Corporate,0.95,0
+base,BBB,Corporate,0.96,0
+base,BBB,Corporate,0.97,0
+base,BBB,Corporate,0.98,0
+base,BBB,Corporate,0.99,0
+base,BBB,Corporate,1,0
+base,BB,CLO,0,0.16839
+base,BB,CLO,0.0025,0.12641
+base,BB,CLO,0.005,0.12571
+base,BB,CLO,0.0075,0.12516
+base,BB,CLO,0.01,0.1246
+base,BB,CLO,0.0125,0.12396
+base,BB,CLO,0.015,0.12324
+base,BB,CLO,0.0175,0.12254
+base,BB,CLO,0.02,0.122
+base,BB,CLO,0.0225,0.12125
+base,BB,CLO,0.025,0.1206
+base,BB,CLO,0.0275,0.12006
+base,BB,CLO,0.03,0.11951
+base,BB,CLO,0.0325,0.11888
+base,BB,CLO,0.035,0.11834
+base,BB,CLO,0.0375,0.11768
+base,BB,CLO,0.04,0.11685
+base,BB,CLO,0.0425,0.11618
+base,BB,CLO,0.045,0.11556
+base,BB,CLO,0.0475,0.11493
+base,BB,CLO,0.05,0.11436
+base,BB,CLO,0.0525,0.11386
+base,BB,CLO,0.055,0.11333
+base,BB,CLO,0.0575,0.11282
+base,BB,CLO,0.06,0.11212
+base,BB,CLO,0.0625,0.11151
+base,BB,CLO,0.065,0.111
+base,BB,CLO,0.0675,0.1105
+base,BB,CLO,0.07,0.1099
+base,BB,CLO,0.0725,0.10935
+base,BB,CLO,0.075,0.10867
+base,BB,CLO,0.0775,0.10804
+base,BB,CLO,0.08,0.10752
+base,BB,CLO,0.0825,0.10706
+base,BB,CLO,0.085,0.10645
+base,BB,CLO,0.0875,0.10607
+base,BB,CLO,0.09,0.10553
+base,BB,CLO,0.0925,0.10506
+base,BB,CLO,0.095,0.10463
+base,BB,CLO,0.0975,0.10411
+base,BB,CLO,0.1,0.10365
+base,BB,CLO,0.1025,0.10322
+base,BB,CLO,0.105,0.10283
+base,BB,CLO,0.1075,0.10239
+base,BB,CLO,0.11,0.10189
+base,BB,CLO,0.1125,0.10153
+base,BB,CLO,0.115,0.10104
+base,BB,CLO,0.1175,0.10061
+base,BB,CLO,0.12,0.1001
+base,BB,CLO,0.1225,0.09966
+base,BB,CLO,0.125,0.09926
+base,BB,CLO,0.1275,0.09874
+base,BB,CLO,0.13,0.09828
+base,BB,CLO,0.1325,0.09795
+base,BB,CLO,0.135,0.09743
+base,BB,CLO,0.1375,0.09698
+base,BB,CLO,0.14,0.09652
+base,BB,CLO,0.1425,0.0961
+base,BB,CLO,0.145,0.09567
+base,BB,CLO,0.1475,0.09522
+base,BB,CLO,0.15,0.09489
+base,BB,CLO,0.1525,0.09435
+base,BB,CLO,0.155,0.0938
+base,BB,CLO,0.1575,0.09333
+base,BB,CLO,0.16,0.093
+base,BB,CLO,0.1625,0.09261
+base,BB,CLO,0.165,0.09222
+base,BB,CLO,0.1675,0.0918
+base,BB,CLO,0.17,0.09145
+base,BB,CLO,0.1725,0.09102
+base,BB,CLO,0.175,0.09062
+base,BB,CLO,0.1775,0.09027
+base,BB,CLO,0.18,0.08999
+base,BB,CLO,0.1825,0.08961
+base,BB,CLO,0.185,0.08918
+base,BB,CLO,0.1875,0.08872
+base,BB,CLO,0.19,0.08835
+base,BB,CLO,0.1925,0.08794
+base,BB,CLO,0.195,0.08767
+base,BB,CLO,0.1975,0.08728
+base,BB,CLO,0.2,0.08688
+base,BB,CLO,0.21,0.08548
+base,BB,CLO,0.22,0.08415
+base,BB,CLO,0.23,0.08283
+base,BB,CLO,0.24,0.0815
+base,BB,CLO,0.25,0.08024
+base,BB,CLO,0.26,0.07887
+base,BB,CLO,0.27,0.07748
+base,BB,CLO,0.28,0.07631
+base,BB,CLO,0.29,0.07516
+base,BB,CLO,0.3,0.07396
+base,BB,CLO,0.31,0.07263
+base,BB,CLO,0.32,0.07144
+base,BB,CLO,0.33,0.07023
+base,BB,CLO,0.34,0.06912
+base,BB,CLO,0.35,0.06806
+base,BB,CLO,0.36,0.06693
+base,BB,CLO,0.37,0.06599
+base,BB,CLO,0.38,0.06502
+base,BB,CLO,0.39,0.06417
+base,BB,CLO,0.4,0.06305
+base,BB,CLO,0.41,0.06209
+base,BB,CLO,0.42,0.06116
+base,BB,CLO,0.43,0.06039
+base,BB,CLO,0.44,0.05943
+base,BB,CLO,0.45,0.05837
+base,BB,CLO,0.46,0.0576
+base,BB,CLO,0.47,0.05664
+base,BB,CLO,0.48,0.05579
+base,BB,CLO,0.49,0.055
+base,BB,CLO,0.5,0.05414
+base,BB,CLO,0.51,0.05334
+base,BB,CLO,0.52,0.05264
+base,BB,CLO,0.53,0.05187
+base,BB,CLO,0.54,0.05093
+base,BB,CLO,0.55,0.05022
+base,BB,CLO,0.56,0.04875
+base,BB,CLO,0.57,0.04795
+base,BB,CLO,0.58,0.04732
+base,BB,CLO,0.59,0.04655
+base,BB,CLO,0.6,0.04601
+base,BB,CLO,0.61,0.04401
+base,BB,CLO,0.62,0.0434
+base,BB,CLO,0.63,0.04282
+base,BB,CLO,0.64,0.04212
+base,BB,CLO,0.65,0.04153
+base,BB,CLO,0.66,0.03727
+base,BB,CLO,0.67,0.0367
+base,BB,CLO,0.68,0.03625
+base,BB,CLO,0.69,0.03576
+base,BB,CLO,0.7,0.03532
+base,BB,CLO,0.71,0.03478
+base,BB,CLO,0.72,0.02892
+base,BB,CLO,0.73,0.02845
+base,BB,CLO,0.74,0.02792
+base,BB,CLO,0.75,0.02754
+base,BB,CLO,0.76,0.02712
+base,BB,CLO,0.77,0.02675
+base,BB,CLO,0.78,0.01965
+base,BB,CLO,0.79,0.01944
+base,BB,CLO,0.8,0.01923
+base,BB,CLO,0.81,0.01898
+base,BB,CLO,0.82,0.01867
+base,BB,CLO,0.83,0.01834
+base,BB,CLO,0.84,0.01809
+base,BB,CLO,0.85,0.01132
+base,BB,CLO,0.86,0.01112
+base,BB,CLO,0.87,0.01093
+base,BB,CLO,0.88,0.0108
+base,BB,CLO,0.89,0.01058
+base,BB,CLO,0.9,0.01043
+base,BB,CLO,0.91,0.01027
+base,BB,CLO,0.92,0.00421
+base,BB,CLO,0.93,0.00417
+base,BB,CLO,0.94,0.00407
+base,BB,CLO,0.95,0.00397
+base,BB,CLO,0.96,0.00386
+base,BB,CLO,0.97,0.00382
+base,BB,CLO,0.98,0.00379
+base,BB,CLO,0.99,0.00373
+base,BB,CLO,1,0
+base,BB,Corporate,0,0.99942
+base,BB,Corporate,0.0025,0.99713
+base,BB,Corporate,0.005,0.98864
+base,BB,Corporate,0.0075,0.97344
+base,BB,Corporate,0.01,0.95092
+base,BB,Corporate,0.0125,0.92241
+base,BB,Corporate,0.015,0.88822
+base,BB,Corporate,0.0175,0.84936
+base,BB,Corporate,0.02,0.80707
+base,BB,Corporate,0.0225,0.76554
+base,BB,Corporate,0.025,0.72199
+base,BB,Corporate,0.0275,0.67871
+base,BB,Corporate,0.03,0.63562
+base,BB,Corporate,0.0325,0.59566
+base,BB,Corporate,0.035,0.55663
+base,BB,Corporate,0.0375,0.51984
+base,BB,Corporate,0.04,0.48535
+base,BB,Corporate,0.0425,0.45209
+base,BB,Corporate,0.045,0.42097
+base,BB,Corporate,0.0475,0.39163
+base,BB,Corporate,0.05,0.36415
+base,BB,Corporate,0.0525,0.33836
+base,BB,Corporate,0.055,0.31427
+base,BB,Corporate,0.0575,0.29215
+base,BB,Corporate,0.06,0.27185
+base,BB,Corporate,0.0625,0.25296
+base,BB,Corporate,0.065,0.23556
+base,BB,Corporate,0.0675,0.21916
+base,BB,Corporate,0.07,0.20462
+base,BB,Corporate,0.0725,0.19048
+base,BB,Corporate,0.075,0.17712
+base,BB,Corporate,0.0775,0.16503
+base,BB,Corporate,0.08,0.15376
+base,BB,Corporate,0.0825,0.14338
+base,BB,Corporate,0.085,0.13334
+base,BB,Corporate,0.0875,0.12437
+base,BB,Corporate,0.09,0.116
+base,BB,Corporate,0.0925,0.10823
+base,BB,Corporate,0.095,0.10083
+base,BB,Corporate,0.0975,0.0941
+base,BB,Corporate,0.1,0.08789
+base,BB,Corporate,0.1025,0.08249
+base,BB,Corporate,0.105,0.07693
+base,BB,Corporate,0.1075,0.07196
+base,BB,Corporate,0.11,0.06768
+base,BB,Corporate,0.1125,0.0631
+base,BB,Corporate,0.115,0.05926
+base,BB,Corporate,0.1175,0.05541
+base,BB,Corporate,0.12,0.05177
+base,BB,Corporate,0.1225,0.04867
+base,BB,Corporate,0.125,0.04605
+base,BB,Corporate,0.1275,0.04294
+base,BB,Corporate,0.13,0.04024
+base,BB,Corporate,0.1325,0.03788
+base,BB,Corporate,0.135,0.03549
+base,BB,Corporate,0.1375,0.03324
+base,BB,Corporate,0.14,0.03114
+base,BB,Corporate,0.1425,0.02913
+base,BB,Corporate,0.145,0.02738
+base,BB,Corporate,0.1475,0.02567
+base,BB,Corporate,0.15,0.0242
+base,BB,Corporate,0.1525,0.02257
+base,BB,Corporate,0.155,0.0211
+base,BB,Corporate,0.1575,0.01975
+base,BB,Corporate,0.16,0.01847
+base,BB,Corporate,0.1625,0.01732
+base,BB,Corporate,0.165,0.01628
+base,BB,Corporate,0.1675,0.01528
+base,BB,Corporate,0.17,0.01428
+base,BB,Corporate,0.1725,0.01334
+base,BB,Corporate,0.175,0.01255
+base,BB,Corporate,0.1775,0.01174
+base,BB,Corporate,0.18,0.01101
+base,BB,Corporate,0.1825,0.01014
+base,BB,Corporate,0.185,0.00945
+base,BB,Corporate,0.1875,0.00882
+base,BB,Corporate,0.19,0.00842
+base,BB,Corporate,0.1925,0.00797
+base,BB,Corporate,0.195,0.00744
+base,BB,Corporate,0.1975,0.0069
+base,BB,Corporate,0.2,0.00652
+base,BB,Corporate,0.21,0.00499
+base,BB,Corporate,0.22,0.00394
+base,BB,Corporate,0.23,0.00304
+base,BB,Corporate,0.24,0.00231
+base,BB,Corporate,0.25,0.00173
+base,BB,Corporate,0.26,0.00135
+base,BB,Corporate,0.27,0.00105
+base,BB,Corporate,0.28,0.00082
+base,BB,Corporate,0.29,0.00064
+base,BB,Corporate,0.3,0.00043
+base,BB,Corporate,0.31,0.00035
+base,BB,Corporate,0.32,0.00024
+base,BB,Corporate,0.33,0.00016
+base,BB,Corporate,0.34,0.0001
+base,BB,Corporate,0.35,8e-05
+base,BB,Corporate,0.36,5e-05
+base,BB,Corporate,0.37,4e-05
+base,BB,Corporate,0.38,3e-05
+base,BB,Corporate,0.39,2e-05
+base,BB,Corporate,0.4,2e-05
+base,BB,Corporate,0.41,2e-05
+base,BB,Corporate,0.42,1e-05
+base,BB,Corporate,0.43,0
+base,BB,Corporate,0.44,0
+base,BB,Corporate,0.45,0
+base,BB,Corporate,0.46,0
+base,BB,Corporate,0.47,0
+base,BB,Corporate,0.48,0
+base,BB,Corporate,0.49,0
+base,BB,Corporate,0.5,0
+base,BB,Corporate,0.51,0
+base,BB,Corporate,0.52,0
+base,BB,Corporate,0.53,0
+base,BB,Corporate,0.54,0
+base,BB,Corporate,0.55,0
+base,BB,Corporate,0.56,0
+base,BB,Corporate,0.57,0
+base,BB,Corporate,0.58,0
+base,BB,Corporate,0.59,0
+base,BB,Corporate,0.6,0
+base,BB,Corporate,0.61,0
+base,BB,Corporate,0.62,0
+base,BB,Corporate,0.63,0
+base,BB,Corporate,0.64,0
+base,BB,Corporate,0.65,0
+base,BB,Corporate,0.66,0
+base,BB,Corporate,0.67,0
+base,BB,Corporate,0.68,0
+base,BB,Corporate,0.69,0
+base,BB,Corporate,0.7,0
+base,BB,Corporate,0.71,0
+base,BB,Corporate,0.72,0
+base,BB,Corporate,0.73,0
+base,BB,Corporate,0.74,0
+base,BB,Corporate,0.75,0
+base,BB,Corporate,0.76,0
+base,BB,Corporate,0.77,0
+base,BB,Corporate,0.78,0
+base,BB,Corporate,0.79,0
+base,BB,Corporate,0.8,0
+base,BB,Corporate,0.81,0
+base,BB,Corporate,0.82,0
+base,BB,Corporate,0.83,0
+base,BB,Corporate,0.84,0
+base,BB,Corporate,0.85,0
+base,BB,Corporate,0.86,0
+base,BB,Corporate,0.87,0
+base,BB,Corporate,0.88,0
+base,BB,Corporate,0.89,0
+base,BB,Corporate,0.9,0
+base,BB,Corporate,0.91,0
+base,BB,Corporate,0.92,0
+base,BB,Corporate,0.93,0
+base,BB,Corporate,0.94,0
+base,BB,Corporate,0.95,0
+base,BB,Corporate,0.96,0
+base,BB,Corporate,0.97,0
+base,BB,Corporate,0.98,0
+base,BB,Corporate,0.99,0
+base,BB,Corporate,1,0
+t copula nu=10,AAA,CLO,0,1
+t copula nu=10,AAA,CLO,0.0025,0
+t copula nu=10,AAA,CLO,0.005,0
+t copula nu=10,AAA,CLO,0.0075,0
+t copula nu=10,AAA,CLO,0.01,0
+t copula nu=10,AAA,CLO,0.0125,0
+t copula nu=10,AAA,CLO,0.015,0
+t copula nu=10,AAA,CLO,0.0175,0
+t copula nu=10,AAA,CLO,0.02,0
+t copula nu=10,AAA,CLO,0.0225,0
+t copula nu=10,AAA,CLO,0.025,0
+t copula nu=10,AAA,CLO,0.0275,0
+t copula nu=10,AAA,CLO,0.03,0
+t copula nu=10,AAA,CLO,0.0325,0
+t copula nu=10,AAA,CLO,0.035,0
+t copula nu=10,AAA,CLO,0.0375,0
+t copula nu=10,AAA,CLO,0.04,0
+t copula nu=10,AAA,CLO,0.0425,0
+t copula nu=10,AAA,CLO,0.045,0
+t copula nu=10,AAA,CLO,0.0475,0
+t copula nu=10,AAA,CLO,0.05,0
+t copula nu=10,AAA,CLO,0.0525,0
+t copula nu=10,AAA,CLO,0.055,0
+t copula nu=10,AAA,CLO,0.0575,0
+t copula nu=10,AAA,CLO,0.06,0
+t copula nu=10,AAA,CLO,0.0625,0
+t copula nu=10,AAA,CLO,0.065,0
+t copula nu=10,AAA,CLO,0.0675,0
+t copula nu=10,AAA,CLO,0.07,0
+t copula nu=10,AAA,CLO,0.0725,0
+t copula nu=10,AAA,CLO,0.075,0
+t copula nu=10,AAA,CLO,0.0775,0
+t copula nu=10,AAA,CLO,0.08,0
+t copula nu=10,AAA,CLO,0.0825,0
+t copula nu=10,AAA,CLO,0.085,0
+t copula nu=10,AAA,CLO,0.0875,0
+t copula nu=10,AAA,CLO,0.09,0
+t copula nu=10,AAA,CLO,0.0925,0
+t copula nu=10,AAA,CLO,0.095,0
+t copula nu=10,AAA,CLO,0.0975,0
+t copula nu=10,AAA,CLO,0.1,0
+t copula nu=10,AAA,CLO,0.1025,0
+t copula nu=10,AAA,CLO,0.105,0
+t copula nu=10,AAA,CLO,0.1075,0
+t copula nu=10,AAA,CLO,0.11,0
+t copula nu=10,AAA,CLO,0.1125,0
+t copula nu=10,AAA,CLO,0.115,0
+t copula nu=10,AAA,CLO,0.1175,0
+t copula nu=10,AAA,CLO,0.12,0
+t copula nu=10,AAA,CLO,0.1225,0
+t copula nu=10,AAA,CLO,0.125,0
+t copula nu=10,AAA,CLO,0.1275,0
+t copula nu=10,AAA,CLO,0.13,0
+t copula nu=10,AAA,CLO,0.1325,0
+t copula nu=10,AAA,CLO,0.135,0
+t copula nu=10,AAA,CLO,0.1375,0
+t copula nu=10,AAA,CLO,0.14,0
+t copula nu=10,AAA,CLO,0.1425,0
+t copula nu=10,AAA,CLO,0.145,0
+t copula nu=10,AAA,CLO,0.1475,0
+t copula nu=10,AAA,CLO,0.15,0
+t copula nu=10,AAA,CLO,0.1525,0
+t copula nu=10,AAA,CLO,0.155,0
+t copula nu=10,AAA,CLO,0.1575,0
+t copula nu=10,AAA,CLO,0.16,0
+t copula nu=10,AAA,CLO,0.1625,0
+t copula nu=10,AAA,CLO,0.165,0
+t copula nu=10,AAA,CLO,0.1675,0
+t copula nu=10,AAA,CLO,0.17,0
+t copula nu=10,AAA,CLO,0.1725,0
+t copula nu=10,AAA,CLO,0.175,0
+t copula nu=10,AAA,CLO,0.1775,0
+t copula nu=10,AAA,CLO,0.18,0
+t copula nu=10,AAA,CLO,0.1825,0
+t copula nu=10,AAA,CLO,0.185,0
+t copula nu=10,AAA,CLO,0.1875,0
+t copula nu=10,AAA,CLO,0.19,0
+t copula nu=10,AAA,CLO,0.1925,0
+t copula nu=10,AAA,CLO,0.195,0
+t copula nu=10,AAA,CLO,0.1975,0
+t copula nu=10,AAA,CLO,0.2,0
+t copula nu=10,AAA,CLO,0.21,0
+t copula nu=10,AAA,CLO,0.22,0
+t copula nu=10,AAA,CLO,0.23,0
+t copula nu=10,AAA,CLO,0.24,0
+t copula nu=10,AAA,CLO,0.25,0
+t copula nu=10,AAA,CLO,0.26,0
+t copula nu=10,AAA,CLO,0.27,0
+t copula nu=10,AAA,CLO,0.28,0
+t copula nu=10,AAA,CLO,0.29,0
+t copula nu=10,AAA,CLO,0.3,0
+t copula nu=10,AAA,CLO,0.31,0
+t copula nu=10,AAA,CLO,0.32,0
+t copula nu=10,AAA,CLO,0.33,0
+t copula nu=10,AAA,CLO,0.34,0
+t copula nu=10,AAA,CLO,0.35,0
+t copula nu=10,AAA,CLO,0.36,0
+t copula nu=10,AAA,CLO,0.37,0
+t copula nu=10,AAA,CLO,0.38,0
+t copula nu=10,AAA,CLO,0.39,0
+t copula nu=10,AAA,CLO,0.4,0
+t copula nu=10,AAA,CLO,0.41,0
+t copula nu=10,AAA,CLO,0.42,0
+t copula nu=10,AAA,CLO,0.43,0
+t copula nu=10,AAA,CLO,0.44,0
+t copula nu=10,AAA,CLO,0.45,0
+t copula nu=10,AAA,CLO,0.46,0
+t copula nu=10,AAA,CLO,0.47,0
+t copula nu=10,AAA,CLO,0.48,0
+t copula nu=10,AAA,CLO,0.49,0
+t copula nu=10,AAA,CLO,0.5,0
+t copula nu=10,AAA,CLO,0.51,0
+t copula nu=10,AAA,CLO,0.52,0
+t copula nu=10,AAA,CLO,0.53,0
+t copula nu=10,AAA,CLO,0.54,0
+t copula nu=10,AAA,CLO,0.55,0
+t copula nu=10,AAA,CLO,0.56,0
+t copula nu=10,AAA,CLO,0.57,0
+t copula nu=10,AAA,CLO,0.58,0
+t copula nu=10,AAA,CLO,0.59,0
+t copula nu=10,AAA,CLO,0.6,0
+t copula nu=10,AAA,CLO,0.61,0
+t copula nu=10,AAA,CLO,0.62,0
+t copula nu=10,AAA,CLO,0.63,0
+t copula nu=10,AAA,CLO,0.64,0
+t copula nu=10,AAA,CLO,0.65,0
+t copula nu=10,AAA,CLO,0.66,0
+t copula nu=10,AAA,CLO,0.67,0
+t copula nu=10,AAA,CLO,0.68,0
+t copula nu=10,AAA,CLO,0.69,0
+t copula nu=10,AAA,CLO,0.7,0
+t copula nu=10,AAA,CLO,0.71,0
+t copula nu=10,AAA,CLO,0.72,0
+t copula nu=10,AAA,CLO,0.73,0
+t copula nu=10,AAA,CLO,0.74,0
+t copula nu=10,AAA,CLO,0.75,0
+t copula nu=10,AAA,CLO,0.76,0
+t copula nu=10,AAA,CLO,0.77,0
+t copula nu=10,AAA,CLO,0.78,0
+t copula nu=10,AAA,CLO,0.79,0
+t copula nu=10,AAA,CLO,0.8,0
+t copula nu=10,AAA,CLO,0.81,0
+t copula nu=10,AAA,CLO,0.82,0
+t copula nu=10,AAA,CLO,0.83,0
+t copula nu=10,AAA,CLO,0.84,0
+t copula nu=10,AAA,CLO,0.85,0
+t copula nu=10,AAA,CLO,0.86,0
+t copula nu=10,AAA,CLO,0.87,0
+t copula nu=10,AAA,CLO,0.88,0
+t copula nu=10,AAA,CLO,0.89,0
+t copula nu=10,AAA,CLO,0.9,0
+t copula nu=10,AAA,CLO,0.91,0
+t copula nu=10,AAA,CLO,0.92,0
+t copula nu=10,AAA,CLO,0.93,0
+t copula nu=10,AAA,CLO,0.94,0
+t copula nu=10,AAA,CLO,0.95,0
+t copula nu=10,AAA,CLO,0.96,0
+t copula nu=10,AAA,CLO,0.97,0
+t copula nu=10,AAA,CLO,0.98,0
+t copula nu=10,AAA,CLO,0.99,0
+t copula nu=10,AAA,CLO,1,0
+t copula nu=10,AAA,Corporate,0,0.5056
+t copula nu=10,AAA,Corporate,0.0025,0.42725
+t copula nu=10,AAA,Corporate,0.005,0.26523
+t copula nu=10,AAA,Corporate,0.0075,0.17469
+t copula nu=10,AAA,Corporate,0.01,0.12682
+t copula nu=10,AAA,Corporate,0.0125,0.09617
+t copula nu=10,AAA,Corporate,0.015,0.07508
+t copula nu=10,AAA,Corporate,0.0175,0.05983
+t copula nu=10,AAA,Corporate,0.02,0.04828
+t copula nu=10,AAA,Corporate,0.0225,0.03971
+t copula nu=10,AAA,Corporate,0.025,0.03265
+t copula nu=10,AAA,Corporate,0.0275,0.02735
+t copula nu=10,AAA,Corporate,0.03,0.02301
+t copula nu=10,AAA,Corporate,0.0325,0.01928
+t copula nu=10,AAA,Corporate,0.035,0.01655
+t copula nu=10,AAA,Corporate,0.0375,0.01391
+t copula nu=10,AAA,Corporate,0.04,0.01217
+t copula nu=10,AAA,Corporate,0.0425,0.01043
+t copula nu=10,AAA,Corporate,0.045,0.00894
+t copula nu=10,AAA,Corporate,0.0475,0.00757
+t copula nu=10,AAA,Corporate,0.05,0.00662
+t copula nu=10,AAA,Corporate,0.0525,0.0057
+t copula nu=10,AAA,Corporate,0.055,0.00503
+t copula nu=10,AAA,Corporate,0.0575,0.00434
+t copula nu=10,AAA,Corporate,0.06,0.00389
+t copula nu=10,AAA,Corporate,0.0625,0.0034
+t copula nu=10,AAA,Corporate,0.065,0.00289
+t copula nu=10,AAA,Corporate,0.0675,0.00248
+t copula nu=10,AAA,Corporate,0.07,0.00225
+t copula nu=10,AAA,Corporate,0.0725,0.00202
+t copula nu=10,AAA,Corporate,0.075,0.00181
+t copula nu=10,AAA,Corporate,0.0775,0.00169
+t copula nu=10,AAA,Corporate,0.08,0.00145
+t copula nu=10,AAA,Corporate,0.0825,0.00126
+t copula nu=10,AAA,Corporate,0.085,0.0012
+t copula nu=10,AAA,Corporate,0.0875,0.00112
+t copula nu=10,AAA,Corporate,0.09,0.00105
+t copula nu=10,AAA,Corporate,0.0925,0.00094
+t copula nu=10,AAA,Corporate,0.095,0.0008
+t copula nu=10,AAA,Corporate,0.0975,0.00071
+t copula nu=10,AAA,Corporate,0.1,0.00063
+t copula nu=10,AAA,Corporate,0.1025,0.00059
+t copula nu=10,AAA,Corporate,0.105,0.00056
+t copula nu=10,AAA,Corporate,0.1075,0.00051
+t copula nu=10,AAA,Corporate,0.11,0.00047
+t copula nu=10,AAA,Corporate,0.1125,0.00041
+t copula nu=10,AAA,Corporate,0.115,0.00036
+t copula nu=10,AAA,Corporate,0.1175,0.00032
+t copula nu=10,AAA,Corporate,0.12,0.00029
+t copula nu=10,AAA,Corporate,0.1225,0.00023
+t copula nu=10,AAA,Corporate,0.125,0.00018
+t copula nu=10,AAA,Corporate,0.1275,0.00016
+t copula nu=10,AAA,Corporate,0.13,0.00014
+t copula nu=10,AAA,Corporate,0.1325,0.00011
+t copula nu=10,AAA,Corporate,0.135,0.0001
+t copula nu=10,AAA,Corporate,0.1375,8e-05
+t copula nu=10,AAA,Corporate,0.14,8e-05
+t copula nu=10,AAA,Corporate,0.1425,8e-05
+t copula nu=10,AAA,Corporate,0.145,6e-05
+t copula nu=10,AAA,Corporate,0.1475,6e-05
+t copula nu=10,AAA,Corporate,0.15,6e-05
+t copula nu=10,AAA,Corporate,0.1525,3e-05
+t copula nu=10,AAA,Corporate,0.155,3e-05
+t copula nu=10,AAA,Corporate,0.1575,3e-05
+t copula nu=10,AAA,Corporate,0.16,3e-05
+t copula nu=10,AAA,Corporate,0.1625,2e-05
+t copula nu=10,AAA,Corporate,0.165,2e-05
+t copula nu=10,AAA,Corporate,0.1675,0
+t copula nu=10,AAA,Corporate,0.17,0
+t copula nu=10,AAA,Corporate,0.1725,0
+t copula nu=10,AAA,Corporate,0.175,0
+t copula nu=10,AAA,Corporate,0.1775,0
+t copula nu=10,AAA,Corporate,0.18,0
+t copula nu=10,AAA,Corporate,0.1825,0
+t copula nu=10,AAA,Corporate,0.185,0
+t copula nu=10,AAA,Corporate,0.1875,0
+t copula nu=10,AAA,Corporate,0.19,0
+t copula nu=10,AAA,Corporate,0.1925,0
+t copula nu=10,AAA,Corporate,0.195,0
+t copula nu=10,AAA,Corporate,0.1975,0
+t copula nu=10,AAA,Corporate,0.2,0
+t copula nu=10,AAA,Corporate,0.21,0
+t copula nu=10,AAA,Corporate,0.22,0
+t copula nu=10,AAA,Corporate,0.23,0
+t copula nu=10,AAA,Corporate,0.24,0
+t copula nu=10,AAA,Corporate,0.25,0
+t copula nu=10,AAA,Corporate,0.26,0
+t copula nu=10,AAA,Corporate,0.27,0
+t copula nu=10,AAA,Corporate,0.28,0
+t copula nu=10,AAA,Corporate,0.29,0
+t copula nu=10,AAA,Corporate,0.3,0
+t copula nu=10,AAA,Corporate,0.31,0
+t copula nu=10,AAA,Corporate,0.32,0
+t copula nu=10,AAA,Corporate,0.33,0
+t copula nu=10,AAA,Corporate,0.34,0
+t copula nu=10,AAA,Corporate,0.35,0
+t copula nu=10,AAA,Corporate,0.36,0
+t copula nu=10,AAA,Corporate,0.37,0
+t copula nu=10,AAA,Corporate,0.38,0
+t copula nu=10,AAA,Corporate,0.39,0
+t copula nu=10,AAA,Corporate,0.4,0
+t copula nu=10,AAA,Corporate,0.41,0
+t copula nu=10,AAA,Corporate,0.42,0
+t copula nu=10,AAA,Corporate,0.43,0
+t copula nu=10,AAA,Corporate,0.44,0
+t copula nu=10,AAA,Corporate,0.45,0
+t copula nu=10,AAA,Corporate,0.46,0
+t copula nu=10,AAA,Corporate,0.47,0
+t copula nu=10,AAA,Corporate,0.48,0
+t copula nu=10,AAA,Corporate,0.49,0
+t copula nu=10,AAA,Corporate,0.5,0
+t copula nu=10,AAA,Corporate,0.51,0
+t copula nu=10,AAA,Corporate,0.52,0
+t copula nu=10,AAA,Corporate,0.53,0
+t copula nu=10,AAA,Corporate,0.54,0
+t copula nu=10,AAA,Corporate,0.55,0
+t copula nu=10,AAA,Corporate,0.56,0
+t copula nu=10,AAA,Corporate,0.57,0
+t copula nu=10,AAA,Corporate,0.58,0
+t copula nu=10,AAA,Corporate,0.59,0
+t copula nu=10,AAA,Corporate,0.6,0
+t copula nu=10,AAA,Corporate,0.61,0
+t copula nu=10,AAA,Corporate,0.62,0
+t copula nu=10,AAA,Corporate,0.63,0
+t copula nu=10,AAA,Corporate,0.64,0
+t copula nu=10,AAA,Corporate,0.65,0
+t copula nu=10,AAA,Corporate,0.66,0
+t copula nu=10,AAA,Corporate,0.67,0
+t copula nu=10,AAA,Corporate,0.68,0
+t copula nu=10,AAA,Corporate,0.69,0
+t copula nu=10,AAA,Corporate,0.7,0
+t copula nu=10,AAA,Corporate,0.71,0
+t copula nu=10,AAA,Corporate,0.72,0
+t copula nu=10,AAA,Corporate,0.73,0
+t copula nu=10,AAA,Corporate,0.74,0
+t copula nu=10,AAA,Corporate,0.75,0
+t copula nu=10,AAA,Corporate,0.76,0
+t copula nu=10,AAA,Corporate,0.77,0
+t copula nu=10,AAA,Corporate,0.78,0
+t copula nu=10,AAA,Corporate,0.79,0
+t copula nu=10,AAA,Corporate,0.8,0
+t copula nu=10,AAA,Corporate,0.81,0
+t copula nu=10,AAA,Corporate,0.82,0
+t copula nu=10,AAA,Corporate,0.83,0
+t copula nu=10,AAA,Corporate,0.84,0
+t copula nu=10,AAA,Corporate,0.85,0
+t copula nu=10,AAA,Corporate,0.86,0
+t copula nu=10,AAA,Corporate,0.87,0
+t copula nu=10,AAA,Corporate,0.88,0
+t copula nu=10,AAA,Corporate,0.89,0
+t copula nu=10,AAA,Corporate,0.9,0
+t copula nu=10,AAA,Corporate,0.91,0
+t copula nu=10,AAA,Corporate,0.92,0
+t copula nu=10,AAA,Corporate,0.93,0
+t copula nu=10,AAA,Corporate,0.94,0
+t copula nu=10,AAA,Corporate,0.95,0
+t copula nu=10,AAA,Corporate,0.96,0
+t copula nu=10,AAA,Corporate,0.97,0
+t copula nu=10,AAA,Corporate,0.98,0
+t copula nu=10,AAA,Corporate,0.99,0
+t copula nu=10,AAA,Corporate,1,0
+t copula nu=10,AA,CLO,0,5e-05
+t copula nu=10,AA,CLO,0.0025,5e-05
+t copula nu=10,AA,CLO,0.005,5e-05
+t copula nu=10,AA,CLO,0.0075,5e-05
+t copula nu=10,AA,CLO,0.01,5e-05
+t copula nu=10,AA,CLO,0.0125,5e-05
+t copula nu=10,AA,CLO,0.015,5e-05
+t copula nu=10,AA,CLO,0.0175,5e-05
+t copula nu=10,AA,CLO,0.02,5e-05
+t copula nu=10,AA,CLO,0.0225,5e-05
+t copula nu=10,AA,CLO,0.025,5e-05
+t copula nu=10,AA,CLO,0.0275,5e-05
+t copula nu=10,AA,CLO,0.03,5e-05
+t copula nu=10,AA,CLO,0.0325,5e-05
+t copula nu=10,AA,CLO,0.035,5e-05
+t copula nu=10,AA,CLO,0.0375,5e-05
+t copula nu=10,AA,CLO,0.04,5e-05
+t copula nu=10,AA,CLO,0.0425,5e-05
+t copula nu=10,AA,CLO,0.045,5e-05
+t copula nu=10,AA,CLO,0.0475,5e-05
+t copula nu=10,AA,CLO,0.05,5e-05
+t copula nu=10,AA,CLO,0.0525,5e-05
+t copula nu=10,AA,CLO,0.055,5e-05
+t copula nu=10,AA,CLO,0.0575,5e-05
+t copula nu=10,AA,CLO,0.06,5e-05
+t copula nu=10,AA,CLO,0.0625,5e-05
+t copula nu=10,AA,CLO,0.065,5e-05
+t copula nu=10,AA,CLO,0.0675,5e-05
+t copula nu=10,AA,CLO,0.07,5e-05
+t copula nu=10,AA,CLO,0.0725,5e-05
+t copula nu=10,AA,CLO,0.075,5e-05
+t copula nu=10,AA,CLO,0.0775,5e-05
+t copula nu=10,AA,CLO,0.08,5e-05
+t copula nu=10,AA,CLO,0.0825,4e-05
+t copula nu=10,AA,CLO,0.085,4e-05
+t copula nu=10,AA,CLO,0.0875,4e-05
+t copula nu=10,AA,CLO,0.09,4e-05
+t copula nu=10,AA,CLO,0.0925,4e-05
+t copula nu=10,AA,CLO,0.095,4e-05
+t copula nu=10,AA,CLO,0.0975,4e-05
+t copula nu=10,AA,CLO,0.1,4e-05
+t copula nu=10,AA,CLO,0.1025,4e-05
+t copula nu=10,AA,CLO,0.105,4e-05
+t copula nu=10,AA,CLO,0.1075,4e-05
+t copula nu=10,AA,CLO,0.11,4e-05
+t copula nu=10,AA,CLO,0.1125,4e-05
+t copula nu=10,AA,CLO,0.115,4e-05
+t copula nu=10,AA,CLO,0.1175,4e-05
+t copula nu=10,AA,CLO,0.12,4e-05
+t copula nu=10,AA,CLO,0.1225,3e-05
+t copula nu=10,AA,CLO,0.125,3e-05
+t copula nu=10,AA,CLO,0.1275,3e-05
+t copula nu=10,AA,CLO,0.13,3e-05
+t copula nu=10,AA,CLO,0.1325,3e-05
+t copula nu=10,AA,CLO,0.135,3e-05
+t copula nu=10,AA,CLO,0.1375,3e-05
+t copula nu=10,AA,CLO,0.14,3e-05
+t copula nu=10,AA,CLO,0.1425,3e-05
+t copula nu=10,AA,CLO,0.145,3e-05
+t copula nu=10,AA,CLO,0.1475,3e-05
+t copula nu=10,AA,CLO,0.15,2e-05
+t copula nu=10,AA,CLO,0.1525,2e-05
+t copula nu=10,AA,CLO,0.155,1e-05
+t copula nu=10,AA,CLO,0.1575,1e-05
+t copula nu=10,AA,CLO,0.16,1e-05
+t copula nu=10,AA,CLO,0.1625,1e-05
+t copula nu=10,AA,CLO,0.165,1e-05
+t copula nu=10,AA,CLO,0.1675,1e-05
+t copula nu=10,AA,CLO,0.17,1e-05
+t copula nu=10,AA,CLO,0.1725,1e-05
+t copula nu=10,AA,CLO,0.175,1e-05
+t copula nu=10,AA,CLO,0.1775,1e-05
+t copula nu=10,AA,CLO,0.18,1e-05
+t copula nu=10,AA,CLO,0.1825,1e-05
+t copula nu=10,AA,CLO,0.185,1e-05
+t copula nu=10,AA,CLO,0.1875,1e-05
+t copula nu=10,AA,CLO,0.19,1e-05
+t copula nu=10,AA,CLO,0.1925,1e-05
+t copula nu=10,AA,CLO,0.195,1e-05
+t copula nu=10,AA,CLO,0.1975,1e-05
+t copula nu=10,AA,CLO,0.2,1e-05
+t copula nu=10,AA,CLO,0.21,1e-05
+t copula nu=10,AA,CLO,0.22,0
+t copula nu=10,AA,CLO,0.23,0
+t copula nu=10,AA,CLO,0.24,0
+t copula nu=10,AA,CLO,0.25,0
+t copula nu=10,AA,CLO,0.26,0
+t copula nu=10,AA,CLO,0.27,0
+t copula nu=10,AA,CLO,0.28,0
+t copula nu=10,AA,CLO,0.29,0
+t copula nu=10,AA,CLO,0.3,0
+t copula nu=10,AA,CLO,0.31,0
+t copula nu=10,AA,CLO,0.32,0
+t copula nu=10,AA,CLO,0.33,0
+t copula nu=10,AA,CLO,0.34,0
+t copula nu=10,AA,CLO,0.35,0
+t copula nu=10,AA,CLO,0.36,0
+t copula nu=10,AA,CLO,0.37,0
+t copula nu=10,AA,CLO,0.38,0
+t copula nu=10,AA,CLO,0.39,0
+t copula nu=10,AA,CLO,0.4,0
+t copula nu=10,AA,CLO,0.41,0
+t copula nu=10,AA,CLO,0.42,0
+t copula nu=10,AA,CLO,0.43,0
+t copula nu=10,AA,CLO,0.44,0
+t copula nu=10,AA,CLO,0.45,0
+t copula nu=10,AA,CLO,0.46,0
+t copula nu=10,AA,CLO,0.47,0
+t copula nu=10,AA,CLO,0.48,0
+t copula nu=10,AA,CLO,0.49,0
+t copula nu=10,AA,CLO,0.5,0
+t copula nu=10,AA,CLO,0.51,0
+t copula nu=10,AA,CLO,0.52,0
+t copula nu=10,AA,CLO,0.53,0
+t copula nu=10,AA,CLO,0.54,0
+t copula nu=10,AA,CLO,0.55,0
+t copula nu=10,AA,CLO,0.56,0
+t copula nu=10,AA,CLO,0.57,0
+t copula nu=10,AA,CLO,0.58,0
+t copula nu=10,AA,CLO,0.59,0
+t copula nu=10,AA,CLO,0.6,0
+t copula nu=10,AA,CLO,0.61,0
+t copula nu=10,AA,CLO,0.62,0
+t copula nu=10,AA,CLO,0.63,0
+t copula nu=10,AA,CLO,0.64,0
+t copula nu=10,AA,CLO,0.65,0
+t copula nu=10,AA,CLO,0.66,0
+t copula nu=10,AA,CLO,0.67,0
+t copula nu=10,AA,CLO,0.68,0
+t copula nu=10,AA,CLO,0.69,0
+t copula nu=10,AA,CLO,0.7,0
+t copula nu=10,AA,CLO,0.71,0
+t copula nu=10,AA,CLO,0.72,0
+t copula nu=10,AA,CLO,0.73,0
+t copula nu=10,AA,CLO,0.74,0
+t copula nu=10,AA,CLO,0.75,0
+t copula nu=10,AA,CLO,0.76,0
+t copula nu=10,AA,CLO,0.77,0
+t copula nu=10,AA,CLO,0.78,0
+t copula nu=10,AA,CLO,0.79,0
+t copula nu=10,AA,CLO,0.8,0
+t copula nu=10,AA,CLO,0.81,0
+t copula nu=10,AA,CLO,0.82,0
+t copula nu=10,AA,CLO,0.83,0
+t copula nu=10,AA,CLO,0.84,0
+t copula nu=10,AA,CLO,0.85,0
+t copula nu=10,AA,CLO,0.86,0
+t copula nu=10,AA,CLO,0.87,0
+t copula nu=10,AA,CLO,0.88,0
+t copula nu=10,AA,CLO,0.89,0
+t copula nu=10,AA,CLO,0.9,0
+t copula nu=10,AA,CLO,0.91,0
+t copula nu=10,AA,CLO,0.92,0
+t copula nu=10,AA,CLO,0.93,0
+t copula nu=10,AA,CLO,0.94,0
+t copula nu=10,AA,CLO,0.95,0
+t copula nu=10,AA,CLO,0.96,0
+t copula nu=10,AA,CLO,0.97,0
+t copula nu=10,AA,CLO,0.98,0
+t copula nu=10,AA,CLO,0.99,0
+t copula nu=10,AA,CLO,1,0
+t copula nu=10,AA,Corporate,0,0.57574
+t copula nu=10,AA,Corporate,0.0025,0.4622
+t copula nu=10,AA,Corporate,0.005,0.3078
+t copula nu=10,AA,Corporate,0.0075,0.2139
+t copula nu=10,AA,Corporate,0.01,0.1548
+t copula nu=10,AA,Corporate,0.0125,0.11824
+t copula nu=10,AA,Corporate,0.015,0.09288
+t copula nu=10,AA,Corporate,0.0175,0.07469
+t copula nu=10,AA,Corporate,0.02,0.06046
+t copula nu=10,AA,Corporate,0.0225,0.05001
+t copula nu=10,AA,Corporate,0.025,0.04165
+t copula nu=10,AA,Corporate,0.0275,0.03474
+t copula nu=10,AA,Corporate,0.03,0.02974
+t copula nu=10,AA,Corporate,0.0325,0.02501
+t copula nu=10,AA,Corporate,0.035,0.02101
+t copula nu=10,AA,Corporate,0.0375,0.01804
+t copula nu=10,AA,Corporate,0.04,0.01559
+t copula nu=10,AA,Corporate,0.0425,0.01323
+t copula nu=10,AA,Corporate,0.045,0.01143
+t copula nu=10,AA,Corporate,0.0475,0.00974
+t copula nu=10,AA,Corporate,0.05,0.00859
+t copula nu=10,AA,Corporate,0.0525,0.00732
+t copula nu=10,AA,Corporate,0.055,0.00646
+t copula nu=10,AA,Corporate,0.0575,0.00549
+t copula nu=10,AA,Corporate,0.06,0.00488
+t copula nu=10,AA,Corporate,0.0625,0.00407
+t copula nu=10,AA,Corporate,0.065,0.00367
+t copula nu=10,AA,Corporate,0.0675,0.00323
+t copula nu=10,AA,Corporate,0.07,0.0029
+t copula nu=10,AA,Corporate,0.0725,0.00268
+t copula nu=10,AA,Corporate,0.075,0.00239
+t copula nu=10,AA,Corporate,0.0775,0.00211
+t copula nu=10,AA,Corporate,0.08,0.00196
+t copula nu=10,AA,Corporate,0.0825,0.00162
+t copula nu=10,AA,Corporate,0.085,0.00143
+t copula nu=10,AA,Corporate,0.0875,0.00121
+t copula nu=10,AA,Corporate,0.09,0.00106
+t copula nu=10,AA,Corporate,0.0925,0.00097
+t copula nu=10,AA,Corporate,0.095,0.00083
+t copula nu=10,AA,Corporate,0.0975,0.00075
+t copula nu=10,AA,Corporate,0.1,0.00064
+t copula nu=10,AA,Corporate,0.1025,0.00053
+t copula nu=10,AA,Corporate,0.105,0.00047
+t copula nu=10,AA,Corporate,0.1075,0.00043
+t copula nu=10,AA,Corporate,0.11,0.0004
+t copula nu=10,AA,Corporate,0.1125,0.00032
+t copula nu=10,AA,Corporate,0.115,0.0003
+t copula nu=10,AA,Corporate,0.1175,0.00027
+t copula nu=10,AA,Corporate,0.12,0.00024
+t copula nu=10,AA,Corporate,0.1225,0.00021
+t copula nu=10,AA,Corporate,0.125,0.00016
+t copula nu=10,AA,Corporate,0.1275,0.00016
+t copula nu=10,AA,Corporate,0.13,0.00014
+t copula nu=10,AA,Corporate,0.1325,0.00013
+t copula nu=10,AA,Corporate,0.135,0.0001
+t copula nu=10,AA,Corporate,0.1375,9e-05
+t copula nu=10,AA,Corporate,0.14,7e-05
+t copula nu=10,AA,Corporate,0.1425,7e-05
+t copula nu=10,AA,Corporate,0.145,6e-05
+t copula nu=10,AA,Corporate,0.1475,6e-05
+t copula nu=10,AA,Corporate,0.15,6e-05
+t copula nu=10,AA,Corporate,0.1525,5e-05
+t copula nu=10,AA,Corporate,0.155,5e-05
+t copula nu=10,AA,Corporate,0.1575,4e-05
+t copula nu=10,AA,Corporate,0.16,3e-05
+t copula nu=10,AA,Corporate,0.1625,2e-05
+t copula nu=10,AA,Corporate,0.165,2e-05
+t copula nu=10,AA,Corporate,0.1675,1e-05
+t copula nu=10,AA,Corporate,0.17,1e-05
+t copula nu=10,AA,Corporate,0.1725,1e-05
+t copula nu=10,AA,Corporate,0.175,1e-05
+t copula nu=10,AA,Corporate,0.1775,1e-05
+t copula nu=10,AA,Corporate,0.18,1e-05
+t copula nu=10,AA,Corporate,0.1825,1e-05
+t copula nu=10,AA,Corporate,0.185,1e-05
+t copula nu=10,AA,Corporate,0.1875,1e-05
+t copula nu=10,AA,Corporate,0.19,1e-05
+t copula nu=10,AA,Corporate,0.1925,1e-05
+t copula nu=10,AA,Corporate,0.195,1e-05
+t copula nu=10,AA,Corporate,0.1975,1e-05
+t copula nu=10,AA,Corporate,0.2,1e-05
+t copula nu=10,AA,Corporate,0.21,0
+t copula nu=10,AA,Corporate,0.22,0
+t copula nu=10,AA,Corporate,0.23,0
+t copula nu=10,AA,Corporate,0.24,0
+t copula nu=10,AA,Corporate,0.25,0
+t copula nu=10,AA,Corporate,0.26,0
+t copula nu=10,AA,Corporate,0.27,0
+t copula nu=10,AA,Corporate,0.28,0
+t copula nu=10,AA,Corporate,0.29,0
+t copula nu=10,AA,Corporate,0.3,0
+t copula nu=10,AA,Corporate,0.31,0
+t copula nu=10,AA,Corporate,0.32,0
+t copula nu=10,AA,Corporate,0.33,0
+t copula nu=10,AA,Corporate,0.34,0
+t copula nu=10,AA,Corporate,0.35,0
+t copula nu=10,AA,Corporate,0.36,0
+t copula nu=10,AA,Corporate,0.37,0
+t copula nu=10,AA,Corporate,0.38,0
+t copula nu=10,AA,Corporate,0.39,0
+t copula nu=10,AA,Corporate,0.4,0
+t copula nu=10,AA,Corporate,0.41,0
+t copula nu=10,AA,Corporate,0.42,0
+t copula nu=10,AA,Corporate,0.43,0
+t copula nu=10,AA,Corporate,0.44,0
+t copula nu=10,AA,Corporate,0.45,0
+t copula nu=10,AA,Corporate,0.46,0
+t copula nu=10,AA,Corporate,0.47,0
+t copula nu=10,AA,Corporate,0.48,0
+t copula nu=10,AA,Corporate,0.49,0
+t copula nu=10,AA,Corporate,0.5,0
+t copula nu=10,AA,Corporate,0.51,0
+t copula nu=10,AA,Corporate,0.52,0
+t copula nu=10,AA,Corporate,0.53,0
+t copula nu=10,AA,Corporate,0.54,0
+t copula nu=10,AA,Corporate,0.55,0
+t copula nu=10,AA,Corporate,0.56,0
+t copula nu=10,AA,Corporate,0.57,0
+t copula nu=10,AA,Corporate,0.58,0
+t copula nu=10,AA,Corporate,0.59,0
+t copula nu=10,AA,Corporate,0.6,0
+t copula nu=10,AA,Corporate,0.61,0
+t copula nu=10,AA,Corporate,0.62,0
+t copula nu=10,AA,Corporate,0.63,0
+t copula nu=10,AA,Corporate,0.64,0
+t copula nu=10,AA,Corporate,0.65,0
+t copula nu=10,AA,Corporate,0.66,0
+t copula nu=10,AA,Corporate,0.67,0
+t copula nu=10,AA,Corporate,0.68,0
+t copula nu=10,AA,Corporate,0.69,0
+t copula nu=10,AA,Corporate,0.7,0
+t copula nu=10,AA,Corporate,0.71,0
+t copula nu=10,AA,Corporate,0.72,0
+t copula nu=10,AA,Corporate,0.73,0
+t copula nu=10,AA,Corporate,0.74,0
+t copula nu=10,AA,Corporate,0.75,0
+t copula nu=10,AA,Corporate,0.76,0
+t copula nu=10,AA,Corporate,0.77,0
+t copula nu=10,AA,Corporate,0.78,0
+t copula nu=10,AA,Corporate,0.79,0
+t copula nu=10,AA,Corporate,0.8,0
+t copula nu=10,AA,Corporate,0.81,0
+t copula nu=10,AA,Corporate,0.82,0
+t copula nu=10,AA,Corporate,0.83,0
+t copula nu=10,AA,Corporate,0.84,0
+t copula nu=10,AA,Corporate,0.85,0
+t copula nu=10,AA,Corporate,0.86,0
+t copula nu=10,AA,Corporate,0.87,0
+t copula nu=10,AA,Corporate,0.88,0
+t copula nu=10,AA,Corporate,0.89,0
+t copula nu=10,AA,Corporate,0.9,0
+t copula nu=10,AA,Corporate,0.91,0
+t copula nu=10,AA,Corporate,0.92,0
+t copula nu=10,AA,Corporate,0.93,0
+t copula nu=10,AA,Corporate,0.94,0
+t copula nu=10,AA,Corporate,0.95,0
+t copula nu=10,AA,Corporate,0.96,0
+t copula nu=10,AA,Corporate,0.97,0
+t copula nu=10,AA,Corporate,0.98,0
+t copula nu=10,AA,Corporate,0.99,0
+t copula nu=10,AA,Corporate,1,0
+t copula nu=10,A,CLO,0,0.00477
+t copula nu=10,A,CLO,0.0025,0.00092
+t copula nu=10,A,CLO,0.005,0.00092
+t copula nu=10,A,CLO,0.0075,0.00092
+t copula nu=10,A,CLO,0.01,0.0009
+t copula nu=10,A,CLO,0.0125,0.00088
+t copula nu=10,A,CLO,0.015,0.00087
+t copula nu=10,A,CLO,0.0175,0.00085
+t copula nu=10,A,CLO,0.02,0.00083
+t copula nu=10,A,CLO,0.0225,0.00082
+t copula nu=10,A,CLO,0.025,0.00079
+t copula nu=10,A,CLO,0.0275,0.00079
+t copula nu=10,A,CLO,0.03,0.00078
+t copula nu=10,A,CLO,0.0325,0.00076
+t copula nu=10,A,CLO,0.035,0.00075
+t copula nu=10,A,CLO,0.0375,0.00075
+t copula nu=10,A,CLO,0.04,0.00075
+t copula nu=10,A,CLO,0.0425,0.00074
+t copula nu=10,A,CLO,0.045,0.00074
+t copula nu=10,A,CLO,0.0475,0.00074
+t copula nu=10,A,CLO,0.05,0.00074
+t copula nu=10,A,CLO,0.0525,0.00074
+t copula nu=10,A,CLO,0.055,0.00074
+t copula nu=10,A,CLO,0.0575,0.00073
+t copula nu=10,A,CLO,0.06,0.00073
+t copula nu=10,A,CLO,0.0625,0.00073
+t copula nu=10,A,CLO,0.065,0.00073
+t copula nu=10,A,CLO,0.0675,0.00073
+t copula nu=10,A,CLO,0.07,0.00071
+t copula nu=10,A,CLO,0.0725,0.0007
+t copula nu=10,A,CLO,0.075,0.0007
+t copula nu=10,A,CLO,0.0775,0.0007
+t copula nu=10,A,CLO,0.08,0.00068
+t copula nu=10,A,CLO,0.0825,0.00067
+t copula nu=10,A,CLO,0.085,0.00067
+t copula nu=10,A,CLO,0.0875,0.00067
+t copula nu=10,A,CLO,0.09,0.00066
+t copula nu=10,A,CLO,0.0925,0.00065
+t copula nu=10,A,CLO,0.095,0.00065
+t copula nu=10,A,CLO,0.0975,0.00065
+t copula nu=10,A,CLO,0.1,0.00065
+t copula nu=10,A,CLO,0.1025,0.00063
+t copula nu=10,A,CLO,0.105,0.00062
+t copula nu=10,A,CLO,0.1075,0.0006
+t copula nu=10,A,CLO,0.11,0.0006
+t copula nu=10,A,CLO,0.1125,0.0006
+t copula nu=10,A,CLO,0.115,0.00059
+t copula nu=10,A,CLO,0.1175,0.00059
+t copula nu=10,A,CLO,0.12,0.00058
+t copula nu=10,A,CLO,0.1225,0.00057
+t copula nu=10,A,CLO,0.125,0.00057
+t copula nu=10,A,CLO,0.1275,0.00057
+t copula nu=10,A,CLO,0.13,0.00057
+t copula nu=10,A,CLO,0.1325,0.00057
+t copula nu=10,A,CLO,0.135,0.00057
+t copula nu=10,A,CLO,0.1375,0.00056
+t copula nu=10,A,CLO,0.14,0.00056
+t copula nu=10,A,CLO,0.1425,0.00055
+t copula nu=10,A,CLO,0.145,0.00054
+t copula nu=10,A,CLO,0.1475,0.00053
+t copula nu=10,A,CLO,0.15,0.00053
+t copula nu=10,A,CLO,0.1525,0.00053
+t copula nu=10,A,CLO,0.155,0.00053
+t copula nu=10,A,CLO,0.1575,0.00053
+t copula nu=10,A,CLO,0.16,0.00053
+t copula nu=10,A,CLO,0.1625,0.00052
+t copula nu=10,A,CLO,0.165,0.0005
+t copula nu=10,A,CLO,0.1675,0.0005
+t copula nu=10,A,CLO,0.17,0.00049
+t copula nu=10,A,CLO,0.1725,0.00049
+t copula nu=10,A,CLO,0.175,0.00049
+t copula nu=10,A,CLO,0.1775,0.00049
+t copula nu=10,A,CLO,0.18,0.00049
+t copula nu=10,A,CLO,0.1825,0.00049
+t copula nu=10,A,CLO,0.185,0.00049
+t copula nu=10,A,CLO,0.1875,0.00047
+t copula nu=10,A,CLO,0.19,0.00046
+t copula nu=10,A,CLO,0.1925,0.00046
+t copula nu=10,A,CLO,0.195,0.00046
+t copula nu=10,A,CLO,0.1975,0.00045
+t copula nu=10,A,CLO,0.2,0.00045
+t copula nu=10,A,CLO,0.21,0.00043
+t copula nu=10,A,CLO,0.22,0.00043
+t copula nu=10,A,CLO,0.23,0.00042
+t copula nu=10,A,CLO,0.24,0.00042
+t copula nu=10,A,CLO,0.25,0.0004
+t copula nu=10,A,CLO,0.26,0.00039
+t copula nu=10,A,CLO,0.27,0.00038
+t copula nu=10,A,CLO,0.28,0.00038
+t copula nu=10,A,CLO,0.29,0.00036
+t copula nu=10,A,CLO,0.3,0.00035
+t copula nu=10,A,CLO,0.31,0.00033
+t copula nu=10,A,CLO,0.32,0.00033
+t copula nu=10,A,CLO,0.33,0.00033
+t copula nu=10,A,CLO,0.34,0.00032
+t copula nu=10,A,CLO,0.35,0.00032
+t copula nu=10,A,CLO,0.36,0.00031
+t copula nu=10,A,CLO,0.37,0.00031
+t copula nu=10,A,CLO,0.38,0.0003
+t copula nu=10,A,CLO,0.39,0.0003
+t copula nu=10,A,CLO,0.4,0.00029
+t copula nu=10,A,CLO,0.41,0.00027
+t copula nu=10,A,CLO,0.42,0.00027
+t copula nu=10,A,CLO,0.43,0.00025
+t copula nu=10,A,CLO,0.44,0.00023
+t copula nu=10,A,CLO,0.45,0.00023
+t copula nu=10,A,CLO,0.46,0.00023
+t copula nu=10,A,CLO,0.47,0.00022
+t copula nu=10,A,CLO,0.48,0.00021
+t copula nu=10,A,CLO,0.49,0.0002
+t copula nu=10,A,CLO,0.5,0.0002
+t copula nu=10,A,CLO,0.51,0.00018
+t copula nu=10,A,CLO,0.52,0.00018
+t copula nu=10,A,CLO,0.53,0.00017
+t copula nu=10,A,CLO,0.54,0.00016
+t copula nu=10,A,CLO,0.55,0.00016
+t copula nu=10,A,CLO,0.56,0.00015
+t copula nu=10,A,CLO,0.57,0.00015
+t copula nu=10,A,CLO,0.58,0.00014
+t copula nu=10,A,CLO,0.59,0.00013
+t copula nu=10,A,CLO,0.6,0.00012
+t copula nu=10,A,CLO,0.61,0.00012
+t copula nu=10,A,CLO,0.62,0.00011
+t copula nu=10,A,CLO,0.63,0.00011
+t copula nu=10,A,CLO,0.64,0.00011
+t copula nu=10,A,CLO,0.65,0.00011
+t copula nu=10,A,CLO,0.66,0.00011
+t copula nu=10,A,CLO,0.67,0.00011
+t copula nu=10,A,CLO,0.68,0.00011
+t copula nu=10,A,CLO,0.69,0.00011
+t copula nu=10,A,CLO,0.7,0.0001
+t copula nu=10,A,CLO,0.71,0.0001
+t copula nu=10,A,CLO,0.72,0.0001
+t copula nu=10,A,CLO,0.73,0.0001
+t copula nu=10,A,CLO,0.74,0.0001
+t copula nu=10,A,CLO,0.75,0.0001
+t copula nu=10,A,CLO,0.76,0.0001
+t copula nu=10,A,CLO,0.77,9e-05
+t copula nu=10,A,CLO,0.78,8e-05
+t copula nu=10,A,CLO,0.79,7e-05
+t copula nu=10,A,CLO,0.8,6e-05
+t copula nu=10,A,CLO,0.81,4e-05
+t copula nu=10,A,CLO,0.82,4e-05
+t copula nu=10,A,CLO,0.83,3e-05
+t copula nu=10,A,CLO,0.84,3e-05
+t copula nu=10,A,CLO,0.85,3e-05
+t copula nu=10,A,CLO,0.86,2e-05
+t copula nu=10,A,CLO,0.87,2e-05
+t copula nu=10,A,CLO,0.88,2e-05
+t copula nu=10,A,CLO,0.89,2e-05
+t copula nu=10,A,CLO,0.9,1e-05
+t copula nu=10,A,CLO,0.91,1e-05
+t copula nu=10,A,CLO,0.92,1e-05
+t copula nu=10,A,CLO,0.93,1e-05
+t copula nu=10,A,CLO,0.94,1e-05
+t copula nu=10,A,CLO,0.95,1e-05
+t copula nu=10,A,CLO,0.96,1e-05
+t copula nu=10,A,CLO,0.97,1e-05
+t copula nu=10,A,CLO,0.98,1e-05
+t copula nu=10,A,CLO,0.99,1e-05
+t copula nu=10,A,CLO,1,0
+t copula nu=10,A,Corporate,0,0.71747
+t copula nu=10,A,Corporate,0.0025,0.58587
+t copula nu=10,A,Corporate,0.005,0.42454
+t copula nu=10,A,Corporate,0.0075,0.31603
+t copula nu=10,A,Corporate,0.01,0.2418
+t copula nu=10,A,Corporate,0.0125,0.18878
+t copula nu=10,A,Corporate,0.015,0.15032
+t copula nu=10,A,Corporate,0.0175,0.12178
+t copula nu=10,A,Corporate,0.02,0.10002
+t copula nu=10,A,Corporate,0.0225,0.0832
+t copula nu=10,A,Corporate,0.025,0.06967
+t copula nu=10,A,Corporate,0.0275,0.05866
+t copula nu=10,A,Corporate,0.03,0.04964
+t copula nu=10,A,Corporate,0.0325,0.04241
+t copula nu=10,A,Corporate,0.035,0.03643
+t copula nu=10,A,Corporate,0.0375,0.03137
+t copula nu=10,A,Corporate,0.04,0.0276
+t copula nu=10,A,Corporate,0.0425,0.02434
+t copula nu=10,A,Corporate,0.045,0.02098
+t copula nu=10,A,Corporate,0.0475,0.01773
+t copula nu=10,A,Corporate,0.05,0.01545
+t copula nu=10,A,Corporate,0.0525,0.01341
+t copula nu=10,A,Corporate,0.055,0.01173
+t copula nu=10,A,Corporate,0.0575,0.0102
+t copula nu=10,A,Corporate,0.06,0.0089
+t copula nu=10,A,Corporate,0.0625,0.00781
+t copula nu=10,A,Corporate,0.065,0.00688
+t copula nu=10,A,Corporate,0.0675,0.00593
+t copula nu=10,A,Corporate,0.07,0.00523
+t copula nu=10,A,Corporate,0.0725,0.00454
+t copula nu=10,A,Corporate,0.075,0.00396
+t copula nu=10,A,Corporate,0.0775,0.0034
+t copula nu=10,A,Corporate,0.08,0.00307
+t copula nu=10,A,Corporate,0.0825,0.00264
+t copula nu=10,A,Corporate,0.085,0.00234
+t copula nu=10,A,Corporate,0.0875,0.00211
+t copula nu=10,A,Corporate,0.09,0.00187
+t copula nu=10,A,Corporate,0.0925,0.0016
+t copula nu=10,A,Corporate,0.095,0.0015
+t copula nu=10,A,Corporate,0.0975,0.00135
+t copula nu=10,A,Corporate,0.1,0.0012
+t copula nu=10,A,Corporate,0.1025,0.00102
+t copula nu=10,A,Corporate,0.105,0.00084
+t copula nu=10,A,Corporate,0.1075,0.00078
+t copula nu=10,A,Corporate,0.11,0.00068
+t copula nu=10,A,Corporate,0.1125,0.00061
+t copula nu=10,A,Corporate,0.115,0.00057
+t copula nu=10,A,Corporate,0.1175,0.00049
+t copula nu=10,A,Corporate,0.12,0.00045
+t copula nu=10,A,Corporate,0.1225,0.00041
+t copula nu=10,A,Corporate,0.125,0.00035
+t copula nu=10,A,Corporate,0.1275,0.00033
+t copula nu=10,A,Corporate,0.13,0.00027
+t copula nu=10,A,Corporate,0.1325,0.00026
+t copula nu=10,A,Corporate,0.135,0.00024
+t copula nu=10,A,Corporate,0.1375,0.0002
+t copula nu=10,A,Corporate,0.14,0.00018
+t copula nu=10,A,Corporate,0.1425,0.00017
+t copula nu=10,A,Corporate,0.145,0.00016
+t copula nu=10,A,Corporate,0.1475,0.00012
+t copula nu=10,A,Corporate,0.15,0.0001
+t copula nu=10,A,Corporate,0.1525,7e-05
+t copula nu=10,A,Corporate,0.155,6e-05
+t copula nu=10,A,Corporate,0.1575,6e-05
+t copula nu=10,A,Corporate,0.16,6e-05
+t copula nu=10,A,Corporate,0.1625,6e-05
+t copula nu=10,A,Corporate,0.165,4e-05
+t copula nu=10,A,Corporate,0.1675,4e-05
+t copula nu=10,A,Corporate,0.17,4e-05
+t copula nu=10,A,Corporate,0.1725,4e-05
+t copula nu=10,A,Corporate,0.175,4e-05
+t copula nu=10,A,Corporate,0.1775,3e-05
+t copula nu=10,A,Corporate,0.18,3e-05
+t copula nu=10,A,Corporate,0.1825,3e-05
+t copula nu=10,A,Corporate,0.185,2e-05
+t copula nu=10,A,Corporate,0.1875,2e-05
+t copula nu=10,A,Corporate,0.19,2e-05
+t copula nu=10,A,Corporate,0.1925,1e-05
+t copula nu=10,A,Corporate,0.195,1e-05
+t copula nu=10,A,Corporate,0.1975,1e-05
+t copula nu=10,A,Corporate,0.2,1e-05
+t copula nu=10,A,Corporate,0.21,0
+t copula nu=10,A,Corporate,0.22,0
+t copula nu=10,A,Corporate,0.23,0
+t copula nu=10,A,Corporate,0.24,0
+t copula nu=10,A,Corporate,0.25,0
+t copula nu=10,A,Corporate,0.26,0
+t copula nu=10,A,Corporate,0.27,0
+t copula nu=10,A,Corporate,0.28,0
+t copula nu=10,A,Corporate,0.29,0
+t copula nu=10,A,Corporate,0.3,0
+t copula nu=10,A,Corporate,0.31,0
+t copula nu=10,A,Corporate,0.32,0
+t copula nu=10,A,Corporate,0.33,0
+t copula nu=10,A,Corporate,0.34,0
+t copula nu=10,A,Corporate,0.35,0
+t copula nu=10,A,Corporate,0.36,0
+t copula nu=10,A,Corporate,0.37,0
+t copula nu=10,A,Corporate,0.38,0
+t copula nu=10,A,Corporate,0.39,0
+t copula nu=10,A,Corporate,0.4,0
+t copula nu=10,A,Corporate,0.41,0
+t copula nu=10,A,Corporate,0.42,0
+t copula nu=10,A,Corporate,0.43,0
+t copula nu=10,A,Corporate,0.44,0
+t copula nu=10,A,Corporate,0.45,0
+t copula nu=10,A,Corporate,0.46,0
+t copula nu=10,A,Corporate,0.47,0
+t copula nu=10,A,Corporate,0.48,0
+t copula nu=10,A,Corporate,0.49,0
+t copula nu=10,A,Corporate,0.5,0
+t copula nu=10,A,Corporate,0.51,0
+t copula nu=10,A,Corporate,0.52,0
+t copula nu=10,A,Corporate,0.53,0
+t copula nu=10,A,Corporate,0.54,0
+t copula nu=10,A,Corporate,0.55,0
+t copula nu=10,A,Corporate,0.56,0
+t copula nu=10,A,Corporate,0.57,0
+t copula nu=10,A,Corporate,0.58,0
+t copula nu=10,A,Corporate,0.59,0
+t copula nu=10,A,Corporate,0.6,0
+t copula nu=10,A,Corporate,0.61,0
+t copula nu=10,A,Corporate,0.62,0
+t copula nu=10,A,Corporate,0.63,0
+t copula nu=10,A,Corporate,0.64,0
+t copula nu=10,A,Corporate,0.65,0
+t copula nu=10,A,Corporate,0.66,0
+t copula nu=10,A,Corporate,0.67,0
+t copula nu=10,A,Corporate,0.68,0
+t copula nu=10,A,Corporate,0.69,0
+t copula nu=10,A,Corporate,0.7,0
+t copula nu=10,A,Corporate,0.71,0
+t copula nu=10,A,Corporate,0.72,0
+t copula nu=10,A,Corporate,0.73,0
+t copula nu=10,A,Corporate,0.74,0
+t copula nu=10,A,Corporate,0.75,0
+t copula nu=10,A,Corporate,0.76,0
+t copula nu=10,A,Corporate,0.77,0
+t copula nu=10,A,Corporate,0.78,0
+t copula nu=10,A,Corporate,0.79,0
+t copula nu=10,A,Corporate,0.8,0
+t copula nu=10,A,Corporate,0.81,0
+t copula nu=10,A,Corporate,0.82,0
+t copula nu=10,A,Corporate,0.83,0
+t copula nu=10,A,Corporate,0.84,0
+t copula nu=10,A,Corporate,0.85,0
+t copula nu=10,A,Corporate,0.86,0
+t copula nu=10,A,Corporate,0.87,0
+t copula nu=10,A,Corporate,0.88,0
+t copula nu=10,A,Corporate,0.89,0
+t copula nu=10,A,Corporate,0.9,0
+t copula nu=10,A,Corporate,0.91,0
+t copula nu=10,A,Corporate,0.92,0
+t copula nu=10,A,Corporate,0.93,0
+t copula nu=10,A,Corporate,0.94,0
+t copula nu=10,A,Corporate,0.95,0
+t copula nu=10,A,Corporate,0.96,0
+t copula nu=10,A,Corporate,0.97,0
+t copula nu=10,A,Corporate,0.98,0
+t copula nu=10,A,Corporate,0.99,0
+t copula nu=10,A,Corporate,1,0
+t copula nu=10,BBB,CLO,0,0.95003
+t copula nu=10,BBB,CLO,0.0025,0.01067
+t copula nu=10,BBB,CLO,0.005,0.01061
+t copula nu=10,BBB,CLO,0.0075,0.01052
+t copula nu=10,BBB,CLO,0.01,0.01044
+t copula nu=10,BBB,CLO,0.0125,0.01041
+t copula nu=10,BBB,CLO,0.015,0.01036
+t copula nu=10,BBB,CLO,0.0175,0.01029
+t copula nu=10,BBB,CLO,0.02,0.01019
+t copula nu=10,BBB,CLO,0.0225,0.01008
+t copula nu=10,BBB,CLO,0.025,0.01001
+t copula nu=10,BBB,CLO,0.0275,0.00996
+t copula nu=10,BBB,CLO,0.03,0.00989
+t copula nu=10,BBB,CLO,0.0325,0.00982
+t copula nu=10,BBB,CLO,0.035,0.0097
+t copula nu=10,BBB,CLO,0.0375,0.00959
+t copula nu=10,BBB,CLO,0.04,0.00954
+t copula nu=10,BBB,CLO,0.0425,0.00942
+t copula nu=10,BBB,CLO,0.045,0.00939
+t copula nu=10,BBB,CLO,0.0475,0.00931
+t copula nu=10,BBB,CLO,0.05,0.0092
+t copula nu=10,BBB,CLO,0.0525,0.00911
+t copula nu=10,BBB,CLO,0.055,0.00904
+t copula nu=10,BBB,CLO,0.0575,0.00895
+t copula nu=10,BBB,CLO,0.06,0.00893
+t copula nu=10,BBB,CLO,0.0625,0.0089
+t copula nu=10,BBB,CLO,0.065,0.00878
+t copula nu=10,BBB,CLO,0.0675,0.00875
+t copula nu=10,BBB,CLO,0.07,0.00871
+t copula nu=10,BBB,CLO,0.0725,0.0086
+t copula nu=10,BBB,CLO,0.075,0.00856
+t copula nu=10,BBB,CLO,0.0775,0.00847
+t copula nu=10,BBB,CLO,0.08,0.00839
+t copula nu=10,BBB,CLO,0.0825,0.00833
+t copula nu=10,BBB,CLO,0.085,0.00829
+t copula nu=10,BBB,CLO,0.0875,0.00823
+t copula nu=10,BBB,CLO,0.09,0.00819
+t copula nu=10,BBB,CLO,0.0925,0.00811
+t copula nu=10,BBB,CLO,0.095,0.008
+t copula nu=10,BBB,CLO,0.0975,0.00794
+t copula nu=10,BBB,CLO,0.1,0.00785
+t copula nu=10,BBB,CLO,0.1025,0.00777
+t copula nu=10,BBB,CLO,0.105,0.0077
+t copula nu=10,BBB,CLO,0.1075,0.00762
+t copula nu=10,BBB,CLO,0.11,0.00759
+t copula nu=10,BBB,CLO,0.1125,0.00752
+t copula nu=10,BBB,CLO,0.115,0.00748
+t copula nu=10,BBB,CLO,0.1175,0.0074
+t copula nu=10,BBB,CLO,0.12,0.00733
+t copula nu=10,BBB,CLO,0.1225,0.00722
+t copula nu=10,BBB,CLO,0.125,0.00717
+t copula nu=10,BBB,CLO,0.1275,0.00711
+t copula nu=10,BBB,CLO,0.13,0.00704
+t copula nu=10,BBB,CLO,0.1325,0.007
+t copula nu=10,BBB,CLO,0.135,0.00697
+t copula nu=10,BBB,CLO,0.1375,0.00691
+t copula nu=10,BBB,CLO,0.14,0.00682
+t copula nu=10,BBB,CLO,0.1425,0.00676
+t copula nu=10,BBB,CLO,0.145,0.00663
+t copula nu=10,BBB,CLO,0.1475,0.00659
+t copula nu=10,BBB,CLO,0.15,0.00655
+t copula nu=10,BBB,CLO,0.1525,0.0065
+t copula nu=10,BBB,CLO,0.155,0.00647
+t copula nu=10,BBB,CLO,0.1575,0.00644
+t copula nu=10,BBB,CLO,0.16,0.00639
+t copula nu=10,BBB,CLO,0.1625,0.00634
+t copula nu=10,BBB,CLO,0.165,0.00631
+t copula nu=10,BBB,CLO,0.1675,0.00629
+t copula nu=10,BBB,CLO,0.17,0.00625
+t copula nu=10,BBB,CLO,0.1725,0.0062
+t copula nu=10,BBB,CLO,0.175,0.00616
+t copula nu=10,BBB,CLO,0.1775,0.00609
+t copula nu=10,BBB,CLO,0.18,0.00605
+t copula nu=10,BBB,CLO,0.1825,0.00604
+t copula nu=10,BBB,CLO,0.185,0.00596
+t copula nu=10,BBB,CLO,0.1875,0.00589
+t copula nu=10,BBB,CLO,0.19,0.00585
+t copula nu=10,BBB,CLO,0.1925,0.00582
+t copula nu=10,BBB,CLO,0.195,0.00576
+t copula nu=10,BBB,CLO,0.1975,0.00571
+t copula nu=10,BBB,CLO,0.2,0.00569
+t copula nu=10,BBB,CLO,0.21,0.00558
+t copula nu=10,BBB,CLO,0.22,0.00544
+t copula nu=10,BBB,CLO,0.23,0.00533
+t copula nu=10,BBB,CLO,0.24,0.00512
+t copula nu=10,BBB,CLO,0.25,0.00504
+t copula nu=10,BBB,CLO,0.26,0.00492
+t copula nu=10,BBB,CLO,0.27,0.00479
+t copula nu=10,BBB,CLO,0.28,0.00465
+t copula nu=10,BBB,CLO,0.29,0.00446
+t copula nu=10,BBB,CLO,0.3,0.00432
+t copula nu=10,BBB,CLO,0.31,0.00414
+t copula nu=10,BBB,CLO,0.32,0.00399
+t copula nu=10,BBB,CLO,0.33,0.00387
+t copula nu=10,BBB,CLO,0.34,0.00376
+t copula nu=10,BBB,CLO,0.35,0.00368
+t copula nu=10,BBB,CLO,0.36,0.00359
+t copula nu=10,BBB,CLO,0.37,0.00353
+t copula nu=10,BBB,CLO,0.38,0.00339
+t copula nu=10,BBB,CLO,0.39,0.00325
+t copula nu=10,BBB,CLO,0.4,0.00317
+t copula nu=10,BBB,CLO,0.41,0.00306
+t copula nu=10,BBB,CLO,0.42,0.00299
+t copula nu=10,BBB,CLO,0.43,0.00289
+t copula nu=10,BBB,CLO,0.44,0.00281
+t copula nu=10,BBB,CLO,0.45,0.00273
+t copula nu=10,BBB,CLO,0.46,0.00266
+t copula nu=10,BBB,CLO,0.47,0.00256
+t copula nu=10,BBB,CLO,0.48,0.00247
+t copula nu=10,BBB,CLO,0.49,0.00238
+t copula nu=10,BBB,CLO,0.5,0.00232
+t copula nu=10,BBB,CLO,0.51,0.00225
+t copula nu=10,BBB,CLO,0.52,0.00219
+t copula nu=10,BBB,CLO,0.53,0.00215
+t copula nu=10,BBB,CLO,0.54,0.00208
+t copula nu=10,BBB,CLO,0.55,0.00202
+t copula nu=10,BBB,CLO,0.56,0.00196
+t copula nu=10,BBB,CLO,0.57,0.00189
+t copula nu=10,BBB,CLO,0.58,0.0018
+t copula nu=10,BBB,CLO,0.59,0.00174
+t copula nu=10,BBB,CLO,0.6,0.00171
+t copula nu=10,BBB,CLO,0.61,0.00165
+t copula nu=10,BBB,CLO,0.62,0.00161
+t copula nu=10,BBB,CLO,0.63,0.00155
+t copula nu=10,BBB,CLO,0.64,0.00151
+t copula nu=10,BBB,CLO,0.65,0.00146
+t copula nu=10,BBB,CLO,0.66,0.00141
+t copula nu=10,BBB,CLO,0.67,0.00134
+t copula nu=10,BBB,CLO,0.68,0.00133
+t copula nu=10,BBB,CLO,0.69,0.00123
+t copula nu=10,BBB,CLO,0.7,0.00118
+t copula nu=10,BBB,CLO,0.71,0.00117
+t copula nu=10,BBB,CLO,0.72,0.00117
+t copula nu=10,BBB,CLO,0.73,0.00115
+t copula nu=10,BBB,CLO,0.74,0.00093
+t copula nu=10,BBB,CLO,0.75,0.00091
+t copula nu=10,BBB,CLO,0.76,0.00088
+t copula nu=10,BBB,CLO,0.77,0.00085
+t copula nu=10,BBB,CLO,0.78,0.00065
+t copula nu=10,BBB,CLO,0.79,0.00064
+t copula nu=10,BBB,CLO,0.8,0.00063
+t copula nu=10,BBB,CLO,0.81,0.0006
+t copula nu=10,BBB,CLO,0.82,0.00058
+t copula nu=10,BBB,CLO,0.83,0.00034
+t copula nu=10,BBB,CLO,0.84,0.00033
+t copula nu=10,BBB,CLO,0.85,0.00032
+t copula nu=10,BBB,CLO,0.86,0.00031
+t copula nu=10,BBB,CLO,0.87,0.00031
+t copula nu=10,BBB,CLO,0.88,0.0003
+t copula nu=10,BBB,CLO,0.89,0.00018
+t copula nu=10,BBB,CLO,0.9,0.00018
+t copula nu=10,BBB,CLO,0.91,0.00018
+t copula nu=10,BBB,CLO,0.92,0.00018
+t copula nu=10,BBB,CLO,0.93,0.00018
+t copula nu=10,BBB,CLO,0.94,0.00011
+t copula nu=10,BBB,CLO,0.95,0.00011
+t copula nu=10,BBB,CLO,0.96,0.00011
+t copula nu=10,BBB,CLO,0.97,0.0001
+t copula nu=10,BBB,CLO,0.98,0.0001
+t copula nu=10,BBB,CLO,0.99,0.0001
+t copula nu=10,BBB,CLO,1,0
+t copula nu=10,BBB,Corporate,0,0.92137
+t copula nu=10,BBB,Corporate,0.0025,0.83909
+t copula nu=10,BBB,Corporate,0.005,0.7226
+t copula nu=10,BBB,Corporate,0.0075,0.61297
+t copula nu=10,BBB,Corporate,0.01,0.51562
+t copula nu=10,BBB,Corporate,0.0125,0.43297
+t copula nu=10,BBB,Corporate,0.015,0.36575
+t copula nu=10,BBB,Corporate,0.0175,0.31098
+t copula nu=10,BBB,Corporate,0.02,0.26516
+t copula nu=10,BBB,Corporate,0.0225,0.22606
+t copula nu=10,BBB,Corporate,0.025,0.1948
+t copula nu=10,BBB,Corporate,0.0275,0.16749
+t copula nu=10,BBB,Corporate,0.03,0.14469
+t copula nu=10,BBB,Corporate,0.0325,0.12574
+t copula nu=10,BBB,Corporate,0.035,0.10996
+t copula nu=10,BBB,Corporate,0.0375,0.09691
+t copula nu=10,BBB,Corporate,0.04,0.08537
+t copula nu=10,BBB,Corporate,0.0425,0.07564
+t copula nu=10,BBB,Corporate,0.045,0.06693
+t copula nu=10,BBB,Corporate,0.0475,0.05923
+t copula nu=10,BBB,Corporate,0.05,0.05251
+t copula nu=10,BBB,Corporate,0.0525,0.04715
+t copula nu=10,BBB,Corporate,0.055,0.04178
+t copula nu=10,BBB,Corporate,0.0575,0.03711
+t copula nu=10,BBB,Corporate,0.06,0.03294
+t copula nu=10,BBB,Corporate,0.0625,0.02954
+t copula nu=10,BBB,Corporate,0.065,0.0264
+t copula nu=10,BBB,Corporate,0.0675,0.02338
+t copula nu=10,BBB,Corporate,0.07,0.02076
+t copula nu=10,BBB,Corporate,0.0725,0.01863
+t copula nu=10,BBB,Corporate,0.075,0.0166
+t copula nu=10,BBB,Corporate,0.0775,0.01511
+t copula nu=10,BBB,Corporate,0.08,0.0137
+t copula nu=10,BBB,Corporate,0.0825,0.01225
+t copula nu=10,BBB,Corporate,0.085,0.01105
+t copula nu=10,BBB,Corporate,0.0875,0.00972
+t copula nu=10,BBB,Corporate,0.09,0.00852
+t copula nu=10,BBB,Corporate,0.0925,0.00758
+t copula nu=10,BBB,Corporate,0.095,0.00688
+t copula nu=10,BBB,Corporate,0.0975,0.00615
+t copula nu=10,BBB,Corporate,0.1,0.00554
+t copula nu=10,BBB,Corporate,0.1025,0.00491
+t copula nu=10,BBB,Corporate,0.105,0.00439
+t copula nu=10,BBB,Corporate,0.1075,0.00394
+t copula nu=10,BBB,Corporate,0.11,0.00343
+t copula nu=10,BBB,Corporate,0.1125,0.003
+t copula nu=10,BBB,Corporate,0.115,0.00264
+t copula nu=10,BBB,Corporate,0.1175,0.00239
+t copula nu=10,BBB,Corporate,0.12,0.00212
+t copula nu=10,BBB,Corporate,0.1225,0.00192
+t copula nu=10,BBB,Corporate,0.125,0.00168
+t copula nu=10,BBB,Corporate,0.1275,0.00151
+t copula nu=10,BBB,Corporate,0.13,0.00139
+t copula nu=10,BBB,Corporate,0.1325,0.00121
+t copula nu=10,BBB,Corporate,0.135,0.00107
+t copula nu=10,BBB,Corporate,0.1375,0.001
+t copula nu=10,BBB,Corporate,0.14,0.00088
+t copula nu=10,BBB,Corporate,0.1425,0.00088
+t copula nu=10,BBB,Corporate,0.145,0.00081
+t copula nu=10,BBB,Corporate,0.1475,0.00073
+t copula nu=10,BBB,Corporate,0.15,0.00066
+t copula nu=10,BBB,Corporate,0.1525,0.00059
+t copula nu=10,BBB,Corporate,0.155,0.00054
+t copula nu=10,BBB,Corporate,0.1575,0.00049
+t copula nu=10,BBB,Corporate,0.16,0.00047
+t copula nu=10,BBB,Corporate,0.1625,0.00035
+t copula nu=10,BBB,Corporate,0.165,0.00028
+t copula nu=10,BBB,Corporate,0.1675,0.00027
+t copula nu=10,BBB,Corporate,0.17,0.00025
+t copula nu=10,BBB,Corporate,0.1725,0.00022
+t copula nu=10,BBB,Corporate,0.175,0.00019
+t copula nu=10,BBB,Corporate,0.1775,0.00017
+t copula nu=10,BBB,Corporate,0.18,0.00015
+t copula nu=10,BBB,Corporate,0.1825,0.00013
+t copula nu=10,BBB,Corporate,0.185,0.00012
+t copula nu=10,BBB,Corporate,0.1875,0.0001
+t copula nu=10,BBB,Corporate,0.19,9e-05
+t copula nu=10,BBB,Corporate,0.1925,7e-05
+t copula nu=10,BBB,Corporate,0.195,4e-05
+t copula nu=10,BBB,Corporate,0.1975,4e-05
+t copula nu=10,BBB,Corporate,0.2,4e-05
+t copula nu=10,BBB,Corporate,0.21,3e-05
+t copula nu=10,BBB,Corporate,0.22,2e-05
+t copula nu=10,BBB,Corporate,0.23,1e-05
+t copula nu=10,BBB,Corporate,0.24,1e-05
+t copula nu=10,BBB,Corporate,0.25,1e-05
+t copula nu=10,BBB,Corporate,0.26,0
+t copula nu=10,BBB,Corporate,0.27,0
+t copula nu=10,BBB,Corporate,0.28,0
+t copula nu=10,BBB,Corporate,0.29,0
+t copula nu=10,BBB,Corporate,0.3,0
+t copula nu=10,BBB,Corporate,0.31,0
+t copula nu=10,BBB,Corporate,0.32,0
+t copula nu=10,BBB,Corporate,0.33,0
+t copula nu=10,BBB,Corporate,0.34,0
+t copula nu=10,BBB,Corporate,0.35,0
+t copula nu=10,BBB,Corporate,0.36,0
+t copula nu=10,BBB,Corporate,0.37,0
+t copula nu=10,BBB,Corporate,0.38,0
+t copula nu=10,BBB,Corporate,0.39,0
+t copula nu=10,BBB,Corporate,0.4,0
+t copula nu=10,BBB,Corporate,0.41,0
+t copula nu=10,BBB,Corporate,0.42,0
+t copula nu=10,BBB,Corporate,0.43,0
+t copula nu=10,BBB,Corporate,0.44,0
+t copula nu=10,BBB,Corporate,0.45,0
+t copula nu=10,BBB,Corporate,0.46,0
+t copula nu=10,BBB,Corporate,0.47,0
+t copula nu=10,BBB,Corporate,0.48,0
+t copula nu=10,BBB,Corporate,0.49,0
+t copula nu=10,BBB,Corporate,0.5,0
+t copula nu=10,BBB,Corporate,0.51,0
+t copula nu=10,BBB,Corporate,0.52,0
+t copula nu=10,BBB,Corporate,0.53,0
+t copula nu=10,BBB,Corporate,0.54,0
+t copula nu=10,BBB,Corporate,0.55,0
+t copula nu=10,BBB,Corporate,0.56,0
+t copula nu=10,BBB,Corporate,0.57,0
+t copula nu=10,BBB,Corporate,0.58,0
+t copula nu=10,BBB,Corporate,0.59,0
+t copula nu=10,BBB,Corporate,0.6,0
+t copula nu=10,BBB,Corporate,0.61,0
+t copula nu=10,BBB,Corporate,0.62,0
+t copula nu=10,BBB,Corporate,0.63,0
+t copula nu=10,BBB,Corporate,0.64,0
+t copula nu=10,BBB,Corporate,0.65,0
+t copula nu=10,BBB,Corporate,0.66,0
+t copula nu=10,BBB,Corporate,0.67,0
+t copula nu=10,BBB,Corporate,0.68,0
+t copula nu=10,BBB,Corporate,0.69,0
+t copula nu=10,BBB,Corporate,0.7,0
+t copula nu=10,BBB,Corporate,0.71,0
+t copula nu=10,BBB,Corporate,0.72,0
+t copula nu=10,BBB,Corporate,0.73,0
+t copula nu=10,BBB,Corporate,0.74,0
+t copula nu=10,BBB,Corporate,0.75,0
+t copula nu=10,BBB,Corporate,0.76,0
+t copula nu=10,BBB,Corporate,0.77,0
+t copula nu=10,BBB,Corporate,0.78,0
+t copula nu=10,BBB,Corporate,0.79,0
+t copula nu=10,BBB,Corporate,0.8,0
+t copula nu=10,BBB,Corporate,0.81,0
+t copula nu=10,BBB,Corporate,0.82,0
+t copula nu=10,BBB,Corporate,0.83,0
+t copula nu=10,BBB,Corporate,0.84,0
+t copula nu=10,BBB,Corporate,0.85,0
+t copula nu=10,BBB,Corporate,0.86,0
+t copula nu=10,BBB,Corporate,0.87,0
+t copula nu=10,BBB,Corporate,0.88,0
+t copula nu=10,BBB,Corporate,0.89,0
+t copula nu=10,BBB,Corporate,0.9,0
+t copula nu=10,BBB,Corporate,0.91,0
+t copula nu=10,BBB,Corporate,0.92,0
+t copula nu=10,BBB,Corporate,0.93,0
+t copula nu=10,BBB,Corporate,0.94,0
+t copula nu=10,BBB,Corporate,0.95,0
+t copula nu=10,BBB,Corporate,0.96,0
+t copula nu=10,BBB,Corporate,0.97,0
+t copula nu=10,BBB,Corporate,0.98,0
+t copula nu=10,BBB,Corporate,0.99,0
+t copula nu=10,BBB,Corporate,1,0
+t copula nu=10,BB,CLO,0,0.13574
+t copula nu=10,BB,CLO,0.0025,0.08487
+t copula nu=10,BB,CLO,0.005,0.08399
+t copula nu=10,BB,CLO,0.0075,0.08333
+t copula nu=10,BB,CLO,0.01,0.08244
+t copula nu=10,BB,CLO,0.0125,0.08179
+t copula nu=10,BB,CLO,0.015,0.08125
+t copula nu=10,BB,CLO,0.0175,0.08068
+t copula nu=10,BB,CLO,0.02,0.08004
+t copula nu=10,BB,CLO,0.0225,0.07937
+t copula nu=10,BB,CLO,0.025,0.07869
+t copula nu=10,BB,CLO,0.0275,0.07811
+t copula nu=10,BB,CLO,0.03,0.07752
+t copula nu=10,BB,CLO,0.0325,0.07688
+t copula nu=10,BB,CLO,0.035,0.07623
+t copula nu=10,BB,CLO,0.0375,0.07567
+t copula nu=10,BB,CLO,0.04,0.07501
+t copula nu=10,BB,CLO,0.0425,0.07434
+t copula nu=10,BB,CLO,0.045,0.07379
+t copula nu=10,BB,CLO,0.0475,0.07316
+t copula nu=10,BB,CLO,0.05,0.07246
+t copula nu=10,BB,CLO,0.0525,0.07195
+t copula nu=10,BB,CLO,0.055,0.07144
+t copula nu=10,BB,CLO,0.0575,0.07088
+t copula nu=10,BB,CLO,0.06,0.07038
+t copula nu=10,BB,CLO,0.0625,0.06983
+t copula nu=10,BB,CLO,0.065,0.06922
+t copula nu=10,BB,CLO,0.0675,0.06882
+t copula nu=10,BB,CLO,0.07,0.06825
+t copula nu=10,BB,CLO,0.0725,0.0678
+t copula nu=10,BB,CLO,0.075,0.06715
+t copula nu=10,BB,CLO,0.0775,0.0666
+t copula nu=10,BB,CLO,0.08,0.06608
+t copula nu=10,BB,CLO,0.0825,0.06563
+t copula nu=10,BB,CLO,0.085,0.06514
+t copula nu=10,BB,CLO,0.0875,0.06463
+t copula nu=10,BB,CLO,0.09,0.06423
+t copula nu=10,BB,CLO,0.0925,0.06382
+t copula nu=10,BB,CLO,0.095,0.06339
+t copula nu=10,BB,CLO,0.0975,0.06293
+t copula nu=10,BB,CLO,0.1,0.0624
+t copula nu=10,BB,CLO,0.1025,0.06201
+t copula nu=10,BB,CLO,0.105,0.06163
+t copula nu=10,BB,CLO,0.1075,0.06121
+t copula nu=10,BB,CLO,0.11,0.06071
+t copula nu=10,BB,CLO,0.1125,0.06026
+t copula nu=10,BB,CLO,0.115,0.05973
+t copula nu=10,BB,CLO,0.1175,0.0593
+t copula nu=10,BB,CLO,0.12,0.05886
+t copula nu=10,BB,CLO,0.1225,0.05836
+t copula nu=10,BB,CLO,0.125,0.05793
+t copula nu=10,BB,CLO,0.1275,0.05744
+t copula nu=10,BB,CLO,0.13,0.05698
+t copula nu=10,BB,CLO,0.1325,0.05665
+t copula nu=10,BB,CLO,0.135,0.0562
+t copula nu=10,BB,CLO,0.1375,0.05585
+t copula nu=10,BB,CLO,0.14,0.05546
+t copula nu=10,BB,CLO,0.1425,0.0552
+t copula nu=10,BB,CLO,0.145,0.05483
+t copula nu=10,BB,CLO,0.1475,0.0545
+t copula nu=10,BB,CLO,0.15,0.05411
+t copula nu=10,BB,CLO,0.1525,0.05368
+t copula nu=10,BB,CLO,0.155,0.05327
+t copula nu=10,BB,CLO,0.1575,0.05292
+t copula nu=10,BB,CLO,0.16,0.05252
+t copula nu=10,BB,CLO,0.1625,0.05216
+t copula nu=10,BB,CLO,0.165,0.0518
+t copula nu=10,BB,CLO,0.1675,0.05139
+t copula nu=10,BB,CLO,0.17,0.05095
+t copula nu=10,BB,CLO,0.1725,0.05068
+t copula nu=10,BB,CLO,0.175,0.05028
+t copula nu=10,BB,CLO,0.1775,0.04985
+t copula nu=10,BB,CLO,0.18,0.04943
+t copula nu=10,BB,CLO,0.1825,0.04907
+t copula nu=10,BB,CLO,0.185,0.04869
+t copula nu=10,BB,CLO,0.1875,0.0483
+t copula nu=10,BB,CLO,0.19,0.04796
+t copula nu=10,BB,CLO,0.1925,0.04762
+t copula nu=10,BB,CLO,0.195,0.04732
+t copula nu=10,BB,CLO,0.1975,0.04684
+t copula nu=10,BB,CLO,0.2,0.04652
+t copula nu=10,BB,CLO,0.21,0.04529
+t copula nu=10,BB,CLO,0.22,0.04391
+t copula nu=10,BB,CLO,0.23,0.0426
+t copula nu=10,BB,CLO,0.24,0.04128
+t copula nu=10,BB,CLO,0.25,0.0402
+t copula nu=10,BB,CLO,0.26,0.03929
+t copula nu=10,BB,CLO,0.27,0.03814
+t copula nu=10,BB,CLO,0.28,0.03727
+t copula nu=10,BB,CLO,0.29,0.0363
+t copula nu=10,BB,CLO,0.3,0.03531
+t copula nu=10,BB,CLO,0.31,0.03426
+t copula nu=10,BB,CLO,0.32,0.03299
+t copula nu=10,BB,CLO,0.33,0.0322
+t copula nu=10,BB,CLO,0.34,0.03119
+t copula nu=10,BB,CLO,0.35,0.03042
+t copula nu=10,BB,CLO,0.36,0.02959
+t copula nu=10,BB,CLO,0.37,0.02885
+t copula nu=10,BB,CLO,0.38,0.02805
+t copula nu=10,BB,CLO,0.39,0.02724
+t copula nu=10,BB,CLO,0.4,0.02649
+t copula nu=10,BB,CLO,0.41,0.02573
+t copula nu=10,BB,CLO,0.42,0.0251
+t copula nu=10,BB,CLO,0.43,0.02444
+t copula nu=10,BB,CLO,0.44,0.0237
+t copula nu=10,BB,CLO,0.45,0.02311
+t copula nu=10,BB,CLO,0.46,0.02245
+t copula nu=10,BB,CLO,0.47,0.02192
+t copula nu=10,BB,CLO,0.48,0.02136
+t copula nu=10,BB,CLO,0.49,0.02077
+t copula nu=10,BB,CLO,0.5,0.02022
+t copula nu=10,BB,CLO,0.51,0.01972
+t copula nu=10,BB,CLO,0.52,0.01907
+t copula nu=10,BB,CLO,0.53,0.01862
+t copula nu=10,BB,CLO,0.54,0.0181
+t copula nu=10,BB,CLO,0.55,0.0177
+t copula nu=10,BB,CLO,0.56,0.01685
+t copula nu=10,BB,CLO,0.57,0.01642
+t copula nu=10,BB,CLO,0.58,0.01599
+t copula nu=10,BB,CLO,0.59,0.01556
+t copula nu=10,BB,CLO,0.6,0.01514
+t copula nu=10,BB,CLO,0.61,0.01405
+t copula nu=10,BB,CLO,0.62,0.01375
+t copula nu=10,BB,CLO,0.63,0.01335
+t copula nu=10,BB,CLO,0.64,0.01302
+t copula nu=10,BB,CLO,0.65,0.01267
+t copula nu=10,BB,CLO,0.66,0.0104
+t copula nu=10,BB,CLO,0.67,0.01008
+t copula nu=10,BB,CLO,0.68,0.00982
+t copula nu=10,BB,CLO,0.69,0.0096
+t copula nu=10,BB,CLO,0.7,0.00946
+t copula nu=10,BB,CLO,0.71,0.00929
+t copula nu=10,BB,CLO,0.72,0.00703
+t copula nu=10,BB,CLO,0.73,0.00684
+t copula nu=10,BB,CLO,0.74,0.00665
+t copula nu=10,BB,CLO,0.75,0.00649
+t copula nu=10,BB,CLO,0.76,0.00632
+t copula nu=10,BB,CLO,0.77,0.00621
+t copula nu=10,BB,CLO,0.78,0.0045
+t copula nu=10,BB,CLO,0.79,0.0044
+t copula nu=10,BB,CLO,0.8,0.0043
+t copula nu=10,BB,CLO,0.81,0.00425
+t copula nu=10,BB,CLO,0.82,0.00417
+t copula nu=10,BB,CLO,0.83,0.00411
+t copula nu=10,BB,CLO,0.84,0.00397
+t copula nu=10,BB,CLO,0.85,0.0023
+t copula nu=10,BB,CLO,0.86,0.00228
+t copula nu=10,BB,CLO,0.87,0.00223
+t copula nu=10,BB,CLO,0.88,0.00214
+t copula nu=10,BB,CLO,0.89,0.00212
+t copula nu=10,BB,CLO,0.9,0.00207
+t copula nu=10,BB,CLO,0.91,0.00201
+t copula nu=10,BB,CLO,0.92,0.00084
+t copula nu=10,BB,CLO,0.93,0.00081
+t copula nu=10,BB,CLO,0.94,0.00079
+t copula nu=10,BB,CLO,0.95,0.00075
+t copula nu=10,BB,CLO,0.96,0.00074
+t copula nu=10,BB,CLO,0.97,0.00073
+t copula nu=10,BB,CLO,0.98,0.00072
+t copula nu=10,BB,CLO,0.99,0.00071
+t copula nu=10,BB,CLO,1,0
+t copula nu=10,BB,Corporate,0,0.99966
+t copula nu=10,BB,Corporate,0.0025,0.99835
+t copula nu=10,BB,Corporate,0.005,0.99392
+t copula nu=10,BB,Corporate,0.0075,0.98481
+t copula nu=10,BB,Corporate,0.01,0.97068
+t copula nu=10,BB,Corporate,0.0125,0.95114
+t copula nu=10,BB,Corporate,0.015,0.92581
+t copula nu=10,BB,Corporate,0.0175,0.89695
+t copula nu=10,BB,Corporate,0.02,0.86264
+t copula nu=10,BB,Corporate,0.0225,0.82623
+t copula nu=10,BB,Corporate,0.025,0.78755
+t copula nu=10,BB,Corporate,0.0275,0.7475
+t copula nu=10,BB,Corporate,0.03,0.70652
+t copula nu=10,BB,Corporate,0.0325,0.66509
+t copula nu=10,BB,Corporate,0.035,0.62539
+t copula nu=10,BB,Corporate,0.0375,0.586
+t copula nu=10,BB,Corporate,0.04,0.54826
+t copula nu=10,BB,Corporate,0.0425,0.51117
+t copula nu=10,BB,Corporate,0.045,0.47562
+t copula nu=10,BB,Corporate,0.0475,0.44172
+t copula nu=10,BB,Corporate,0.05,0.40918
+t copula nu=10,BB,Corporate,0.0525,0.38062
+t copula nu=10,BB,Corporate,0.055,0.3524
+t copula nu=10,BB,Corporate,0.0575,0.32649
+t copula nu=10,BB,Corporate,0.06,0.30213
+t copula nu=10,BB,Corporate,0.0625,0.27949
+t copula nu=10,BB,Corporate,0.065,0.25864
+t copula nu=10,BB,Corporate,0.0675,0.23857
+t copula nu=10,BB,Corporate,0.07,0.22032
+t copula nu=10,BB,Corporate,0.0725,0.20239
+t copula nu=10,BB,Corporate,0.075,0.1861
+t copula nu=10,BB,Corporate,0.0775,0.17163
+t copula nu=10,BB,Corporate,0.08,0.15857
+t copula nu=10,BB,Corporate,0.0825,0.14558
+t copula nu=10,BB,Corporate,0.085,0.13431
+t copula nu=10,BB,Corporate,0.0875,0.12398
+t copula nu=10,BB,Corporate,0.09,0.11412
+t copula nu=10,BB,Corporate,0.0925,0.10506
+t copula nu=10,BB,Corporate,0.095,0.09673
+t copula nu=10,BB,Corporate,0.0975,0.08929
+t copula nu=10,BB,Corporate,0.1,0.08221
+t copula nu=10,BB,Corporate,0.1025,0.07566
+t copula nu=10,BB,Corporate,0.105,0.06953
+t copula nu=10,BB,Corporate,0.1075,0.06405
+t copula nu=10,BB,Corporate,0.11,0.05893
+t copula nu=10,BB,Corporate,0.1125,0.05432
+t copula nu=10,BB,Corporate,0.115,0.0501
+t copula nu=10,BB,Corporate,0.1175,0.04616
+t copula nu=10,BB,Corporate,0.12,0.04236
+t copula nu=10,BB,Corporate,0.1225,0.0392
+t copula nu=10,BB,Corporate,0.125,0.03584
+t copula nu=10,BB,Corporate,0.1275,0.03301
+t copula nu=10,BB,Corporate,0.13,0.03019
+t copula nu=10,BB,Corporate,0.1325,0.02786
+t copula nu=10,BB,Corporate,0.135,0.02576
+t copula nu=10,BB,Corporate,0.1375,0.0238
+t copula nu=10,BB,Corporate,0.14,0.02179
+t copula nu=10,BB,Corporate,0.1425,0.02008
+t copula nu=10,BB,Corporate,0.145,0.01845
+t copula nu=10,BB,Corporate,0.1475,0.01697
+t copula nu=10,BB,Corporate,0.15,0.01561
+t copula nu=10,BB,Corporate,0.1525,0.01425
+t copula nu=10,BB,Corporate,0.155,0.01293
+t copula nu=10,BB,Corporate,0.1575,0.01179
+t copula nu=10,BB,Corporate,0.16,0.01081
+t copula nu=10,BB,Corporate,0.1625,0.01004
+t copula nu=10,BB,Corporate,0.165,0.0092
+t copula nu=10,BB,Corporate,0.1675,0.00834
+t copula nu=10,BB,Corporate,0.17,0.00761
+t copula nu=10,BB,Corporate,0.1725,0.00691
+t copula nu=10,BB,Corporate,0.175,0.00635
+t copula nu=10,BB,Corporate,0.1775,0.00574
+t copula nu=10,BB,Corporate,0.18,0.00522
+t copula nu=10,BB,Corporate,0.1825,0.00471
+t copula nu=10,BB,Corporate,0.185,0.00426
+t copula nu=10,BB,Corporate,0.1875,0.00396
+t copula nu=10,BB,Corporate,0.19,0.00357
+t copula nu=10,BB,Corporate,0.1925,0.00335
+t copula nu=10,BB,Corporate,0.195,0.00312
+t copula nu=10,BB,Corporate,0.1975,0.00284
+t copula nu=10,BB,Corporate,0.2,0.00267
+t copula nu=10,BB,Corporate,0.21,0.00185
+t copula nu=10,BB,Corporate,0.22,0.0012
+t copula nu=10,BB,Corporate,0.23,0.00079
+t copula nu=10,BB,Corporate,0.24,0.0005
+t copula nu=10,BB,Corporate,0.25,0.00029
+t copula nu=10,BB,Corporate,0.26,0.00015
+t copula nu=10,BB,Corporate,0.27,0.0001
+t copula nu=10,BB,Corporate,0.28,5e-05
+t copula nu=10,BB,Corporate,0.29,2e-05
+t copula nu=10,BB,Corporate,0.3,0
+t copula nu=10,BB,Corporate,0.31,0
+t copula nu=10,BB,Corporate,0.32,0
+t copula nu=10,BB,Corporate,0.33,0
+t copula nu=10,BB,Corporate,0.34,0
+t copula nu=10,BB,Corporate,0.35,0
+t copula nu=10,BB,Corporate,0.36,0
+t copula nu=10,BB,Corporate,0.37,0
+t copula nu=10,BB,Corporate,0.38,0
+t copula nu=10,BB,Corporate,0.39,0
+t copula nu=10,BB,Corporate,0.4,0
+t copula nu=10,BB,Corporate,0.41,0
+t copula nu=10,BB,Corporate,0.42,0
+t copula nu=10,BB,Corporate,0.43,0
+t copula nu=10,BB,Corporate,0.44,0
+t copula nu=10,BB,Corporate,0.45,0
+t copula nu=10,BB,Corporate,0.46,0
+t copula nu=10,BB,Corporate,0.47,0
+t copula nu=10,BB,Corporate,0.48,0
+t copula nu=10,BB,Corporate,0.49,0
+t copula nu=10,BB,Corporate,0.5,0
+t copula nu=10,BB,Corporate,0.51,0
+t copula nu=10,BB,Corporate,0.52,0
+t copula nu=10,BB,Corporate,0.53,0
+t copula nu=10,BB,Corporate,0.54,0
+t copula nu=10,BB,Corporate,0.55,0
+t copula nu=10,BB,Corporate,0.56,0
+t copula nu=10,BB,Corporate,0.57,0
+t copula nu=10,BB,Corporate,0.58,0
+t copula nu=10,BB,Corporate,0.59,0
+t copula nu=10,BB,Corporate,0.6,0
+t copula nu=10,BB,Corporate,0.61,0
+t copula nu=10,BB,Corporate,0.62,0
+t copula nu=10,BB,Corporate,0.63,0
+t copula nu=10,BB,Corporate,0.64,0
+t copula nu=10,BB,Corporate,0.65,0
+t copula nu=10,BB,Corporate,0.66,0
+t copula nu=10,BB,Corporate,0.67,0
+t copula nu=10,BB,Corporate,0.68,0
+t copula nu=10,BB,Corporate,0.69,0
+t copula nu=10,BB,Corporate,0.7,0
+t copula nu=10,BB,Corporate,0.71,0
+t copula nu=10,BB,Corporate,0.72,0
+t copula nu=10,BB,Corporate,0.73,0
+t copula nu=10,BB,Corporate,0.74,0
+t copula nu=10,BB,Corporate,0.75,0
+t copula nu=10,BB,Corporate,0.76,0
+t copula nu=10,BB,Corporate,0.77,0
+t copula nu=10,BB,Corporate,0.78,0
+t copula nu=10,BB,Corporate,0.79,0
+t copula nu=10,BB,Corporate,0.8,0
+t copula nu=10,BB,Corporate,0.81,0
+t copula nu=10,BB,Corporate,0.82,0
+t copula nu=10,BB,Corporate,0.83,0
+t copula nu=10,BB,Corporate,0.84,0
+t copula nu=10,BB,Corporate,0.85,0
+t copula nu=10,BB,Corporate,0.86,0
+t copula nu=10,BB,Corporate,0.87,0
+t copula nu=10,BB,Corporate,0.88,0
+t copula nu=10,BB,Corporate,0.89,0
+t copula nu=10,BB,Corporate,0.9,0
+t copula nu=10,BB,Corporate,0.91,0
+t copula nu=10,BB,Corporate,0.92,0
+t copula nu=10,BB,Corporate,0.93,0
+t copula nu=10,BB,Corporate,0.94,0
+t copula nu=10,BB,Corporate,0.95,0
+t copula nu=10,BB,Corporate,0.96,0
+t copula nu=10,BB,Corporate,0.97,0
+t copula nu=10,BB,Corporate,0.98,0
+t copula nu=10,BB,Corporate,0.99,0
+t copula nu=10,BB,Corporate,1,0

@@ -1,0 +1,2 @@
+base_rate,loan_spread,senior_fee,sub_fee,reinvest_years,horizon,amortization
+0.0381041,0.035,0.002,0.003,5,10,linear

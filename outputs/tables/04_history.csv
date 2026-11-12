@@ -1,0 +1,6 @@
+rating,model_p_principal_loss_10y,model_p_any_loss_10y,moodys_2007_2017_cohort,sp_clo1_lifetime,sp_clo2_lifetime,highest_historical_rate,model_below_history_flag
+AAA,0.0007,0.0007,Aaa 0%,0/1540,0/5210,0,False
+AA,0.00325,0.00325,Aa2 0%,1/616,0/3996,0.00162,False
+A,0.00806,0.01013,A2 0%,5/790,0/3349,0.00633,False
+BBB,0.03042,0.03725,Baa2 1%; Baa3 2%,9/783,0/3394,0.02,False
+BB,0.10387,0.12695,Ba2 1%; Ba3 9%,22/565,13/2497,0.09,False

@@ -1,0 +1,18 @@
+scenario,recovery,rating,instrument,principal_loss,pv_loss,oc_fail_years,cum_default,naic_ye2019_principal_loss
+NAIC Similar to 2008,NAIC stepdown recovery 40%,AAA,CLO,0,3.330669074e-16,0,,0
+NAIC Similar to 2008,NAIC stepdown recovery 40%,AA,CLO,0,0,6,,0
+NAIC Similar to 2008,NAIC stepdown recovery 40%,A,CLO,0,0,7,,0
+NAIC Similar to 2008,NAIC stepdown recovery 40%,BBB,CLO,0.03886255407,0.3185059073,10,,0.19
+NAIC Similar to 2008,NAIC stepdown recovery 40%,BB,CLO,1,1,10,,0.97
+NAIC Similar to 2008,NAIC stepdown recovery 40%,pool,collateral,0.2456802966,,,0.409467161,
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,AAA,CLO,0,6.661338148e-16,0,,0
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,AA,CLO,0,0,3,,0
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,A,CLO,0,0,4,,0
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,BBB,CLO,0,1.110223025e-16,6,,0.19
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,BB,CLO,0,0,10,,0.97
+NAIC Similar to 2008,Moody's 2008 loan recovery 61.7%,pool,collateral,0.1631701404,,,0.4260316982,
+NAIC Similar to 2008,Moody's 2008 bond recovery 33.8%,AAA,Corporate,0.006480700206,0.005681744449,,0.009789577351,0
+NAIC Similar to 2008,Moody's 2008 bond recovery 33.8%,AA,Corporate,0.007365036607,0.00640236167,,0.01112543294,0
+NAIC Similar to 2008,Moody's 2008 bond recovery 33.8%,A,Corporate,0.01404583419,0.01248963913,,0.0212172722,0
+NAIC Similar to 2008,Moody's 2008 bond recovery 33.8%,BBB,Corporate,0.03413725367,0.03025611801,,0.05156684845,0.19
+NAIC Similar to 2008,Moody's 2008 bond recovery 33.8%,BB,Corporate,0.1242438896,0.10602326,,0.1876795916,0.97

@@ -1,0 +1,3 @@
+variant,rho,phi,nu,pool_default_mean,pool_default_p995,pool_loss_mean,pool_loss_p96,pool_loss_p995,loan_recovery_default_weighted,bond_recovery_default_weighted,oc_fail_share_AAA,oc_fail_share_AA,oc_fail_share_A,oc_fail_share_BBB,oc_fail_share_BB,conservation_error
+base,0.1493063963,0.5120813561,,0.2271391138,0.6070972338,0.07633665004,0.183591764,0.2908458701,0.6639211594,0.390285714,0,0.17639,0.24922,0.57263,0.37981,5.551115123e-17
+t copula nu=10,0.002667607869,0.5120813561,10,0.2296759423,0.4694467077,0.07720633227,0.1483196029,0.2057963422,0.6638466724,0.3928233882,0,0.18293,0.27654,0.68455,0.44959,5.551115123e-17

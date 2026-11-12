@@ -1,0 +1,11 @@
+item,value,source
+clo_thin_tranche_surcharge_2C_or_below_thickness_le_4pct_BSL,0.1177,"NAIC RBC Proposal 2026-12-IRE MOD (WG adopted 6/23/2026, CATF 6/30/2026, effective YE2026), LR002 Column 2 pre-tax; https://content.naic.org/sites/default/files/inline-files/2026-12-ire.pdf"
+clo_thin_tranche_threshold_thickness,0.04,"NAIC RBC Proposal 2026-12-IRE MOD (WG adopted 6/23/2026, CATF 6/30/2026, effective YE2026), LR002 Column 2 pre-tax; https://content.naic.org/sites/default/files/inline-files/2026-12-ire.pdf"
+clo_residual_tranche_factor_life,0.45,NAIC RBC Proposal 2023-09-IRE (adopted 6/30/2023; .45 from YE2024); retained in 2026-12-IRE MOD; https://content.naic.org/sites/default/files/inline-files/2023-09-IRE%20webpost_0.pdf
+clo_portfolio_adjustment_factor,1.0,"NAIC RBC Proposal 2026-12-IRE MOD (WG adopted 6/23/2026, CATF 6/30/2026, effective YE2026), LR002 Column 2 pre-tax; https://content.naic.org/sites/default/files/inline-files/2026-12-ire.pdf"
+corp_calibration_percentile_VaR,0.96,"Moody's Analytics, Revisions to the RBC C1 Bond Factors, May 2021: 96th percentile over 10-year horizon; https://content.naic.org/sites/default/files/inline-files/2021%20Revisions%20to%20the%20RBC%20C1%20Bond%20Factors%205-24.pdf"
+corp_calibration_horizon_years,10,same as above
+corp_risk_premium_rule,EL + 0.5 SD of PV default loss,same as above
+pre_tax_discount_rate,0.0347,same as above (average 10y USD swap rate 2000-2020)
+naic_model_asset_correlation,0.1,"American Academy of Actuaries, Model Construction and Development of RBC C-1 CLO Factors, Oct 2026, sec 5.1.1.1: Gaussian copula, sqrt(10%) systematic, new draw each year; https://actuary.org/wp-content/uploads/2026/10/life-report-CLOModelDoc.pdf"
+clo_calibration_tail_metric,"CTE90 of max PV accumulated deficiency, 10-year","same Academy report, Executive summary"

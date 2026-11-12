@@ -1,0 +1,6 @@
+rating,model_principal_loss,model_pv_loss,naic_principal_loss,band_lo,band_hi,pass,naic_principal_and_interest_loss
+AAA,0,3.330669074e-16,0,0,0.01,True,
+AA,0,0,0,0,0.01,True,
+A,0,0,0,0,0.01,True,0
+BBB,0.03886255407,0.3185059073,0.19,0.05,0.4,False,0.31
+BB,1,1,0.97,0.8,1,True,1.48
